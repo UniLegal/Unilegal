@@ -23,7 +23,13 @@ const ContactPage = props => {
   }
     function colorSet() {
         document.getElementById('selection').style.color = "black";
-    }
+  }
+
+  function selectchange() {
+    var z = document.getElementById("selection").selectedIndex;
+    var z1 = document.getElementsByTagName("option")[z].value;
+    document.getElementById("contactform").action = z1;
+  }
 
   return (
     <Layout>
@@ -31,13 +37,11 @@ const ContactPage = props => {
           <div class="container1111 desktop">
               <img src={headerimg} alt="Snow" width="1920" height="419"/>
               <div class="centered"><h1>Contact Us</h1>
-                  <p>Have a question? Need help with the products? Drop us a message here and we will try our best to help you!</p>
 </div>
           </div>
           <div class="container1111 mobile">
               <img src={mobileheaderimg} alt="Snow" width="1015" height="807"/>
               <div class="centered"><h1>Contact Us</h1>
-                  <p>Have a question? Need help with the products? Drop us a message here and we will try our best to help you!</p>
               </div>
           </div>
           <Container>
@@ -87,7 +91,7 @@ MRT: Raffles Place  "
                               </div>
                               
                           </div>
-                      <form id="contactform" class="contactusform" name="Contact Form" action="https://getsimpleform.com/messages?form_api_token=98e8867c4b508288f7697c44adfbcb05" method="post">
+                      <form id="contactform" class="contactusform" name="Contact Form" action="https://getsimpleform.com/messages?form_api_token=123ert67890oikjmnhb" method="post">
                   <input type='hidden' name='redirect_to' value='http://www.portomono.me/thank-you' />
 
                           <input type="hidden" name="form-name" value="Contact Form" />
@@ -105,11 +109,11 @@ MRT: Raffles Place  "
             <input placeholder="E-mail" type="email" name="email" />
           </div>
                               <div>
-                                  <select id="selection" name="enquirytype" placeholder="Choose Enquiry Type" onClick={colorSet} required="">
+                  <select id="selection" name="enquirytype" placeholder="Choose Enquiry Type" onClick={colorSet} onChange={selectchange} required="">
               <option value="" hidden selected="">Choose Enquiry Type</option>
-                    <option value="Corporate">Corporate</option>
-                    <option value="Litigation">Litigation</option>
-                    <option value="Conveyance">Conveyance</option>
+                    <option value="https://getsimpleform.com/messages?form_api_token=98e8867c4b508288f7697c44adfbcb05">Corporate</option>
+                    <option value="https://getsimpleform.com/messages?form_api_token=77777777">Litigation</option>
+                    <option value="https://getsimpleform.com/messages?form_api_token=666666666">Conveyance</option>
             </select>
                           </div>
                           </div>

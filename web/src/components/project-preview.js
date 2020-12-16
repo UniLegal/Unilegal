@@ -3,6 +3,7 @@ import React from 'react'
 import {cn, buildImageObj} from '../lib/helpers'
 import {imageUrlFor} from '../lib/image-url'
 import BlockText from './block-text'
+import { format, distanceInWords, differenceInDays } from 'date-fns'
 
 import styles from './project-preview.module.css'
 import {responsiveTitle3} from './typography.module.css'
@@ -21,7 +22,11 @@ function ProjectPreview (props) {
           />
         )}
       </div>
-      <h3 className={cn(responsiveTitle3, styles.title)}>{props.title}</h3>
+      <div className={styles.publishedAt}>
+        {differenceInDays(new Date(props.publishedAt), new Date()) > 3
+          ? distanceInWords(new Date(props.publishedAt), new Date())
+          : format(new Date(props.publishedAt), 'MMMM Do YYYY')}
+      </div>      <h3 className={cn(responsiveTitle3, styles.title)}>{props.title}</h3>
       {props._rawExcerpt && (
         <div className={styles.excerpt}>
           <BlockText blocks={props._rawExcerpt} />

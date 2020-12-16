@@ -25,7 +25,7 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
                         <Link to='/profile-of-lawyers/'>Profile of Lawyers</Link>
             </li>
             <li>
-              <Link to='/blogs/'>Blogs</Link>
+              <Link to='/news/'>News</Link>
             </li>
                     <li>
                         <Link to='/contact/'>Contact Us</Link>
@@ -66,7 +66,7 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
               <Link to='/profile-of-lawyers/'>Profile of Laywers</Link>
             </li>
             <li>
-              <Link to='/blogs/'>Blogs</Link>
+              <Link to='/news/'>News</Link>
             </li>
             <li>
               <Link to='/contact/'>Contact Us</Link>

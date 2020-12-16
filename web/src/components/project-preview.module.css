@@ -23,6 +23,11 @@
   }
 }
 
+.publishedAt {
+  composes: medium from './typography.module.css';
+  margin: 1rem 0 0rem;
+}
+
 .title {
   @media (hover: hover) {
     @nest .root:hover & {

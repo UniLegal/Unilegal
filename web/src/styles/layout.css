@@ -1,10 +1,10 @@
 @import './vars.css';
 
 html {
-  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: Arial;
   font-size: var(--font-base-size);
   line-height: var(--font-base-line-height);
-  width:100%;
+  width: 100%;
 }
 p {
 font-size:1.1em;
@@ -672,6 +672,7 @@ transition: color .2s linear;
   margin-left: auto;
   margin-right: auto;
   padding:0.5em;
+  padding-bottom:0em;
   height:auto;
 }
 .installone{
@@ -680,17 +681,20 @@ transition: color .2s linear;
     margin-left: unset;
     margin-right: unset;
     padding: 0.5em;
+    padding-bottom:0;
     height: auto;
 }
 .installclass {
     max-width: 90%;
-    padding: 0em 0.5em 1em 1em;
+    padding: 0em 0.5em 0em 1em;
     display: flex;
     margin-left: auto;
     margin-right: auto;
     align-items: flex-start;
 }
-
+.installclasswrap {
+  padding: 0.5em 0em 1em 0em;
+}
 .installimg {
     object-fit: contain;
     margin-left: auto;
@@ -1325,11 +1329,14 @@ display:inline;
     margin-right:auto;
     text-align: left;
     max-width: 90%;
+    padding-top:1.5em;
 }
 .abtus2 {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: right;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: right;
+  max-width: 90%;
+  padding-top: 1.5em;
 }
 .abtus2 p{
 
@@ -1365,7 +1372,6 @@ color:white;
 text-decoration:underline;
 }
 .cross {
-    margin-top: -17px;
     position: absolute;
     right: 14px;
     font-size: xxx-large;
@@ -1398,4 +1404,79 @@ text-decoration:underline;
 .btnmob {
     margin-right: -1em;
     margin-left: auto;
+}
+
+.indeximg {
+width:100%;
+}
+.indeximgmob {
+  display:none;
+}
+@media only screen and (max-width: 600px) {
+  .indeximg {
+    display: none;
+  }
+  .indeximgmob {
+    width: 100%;
+    display:block;
+  }
+}
+
+.tri {
+display:none;
+width:18%;
+margin-left:auto;
+margin-right:auto;
+}
+.indexnews {
+background-color:black;
+}
+
+.indexnewswrap {
+width:60%;
+margin-left:auto;
+margin-right:auto;
+color:white !important;
+}
+.newstitle {
+  text-align: center;
+  font-size: large;
+  padding-top: 1em;
+  font-weight: bold;
+}
+.newsbtn {
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.5em;
+  background-color: #fff;
+}
+.indexnews a {
+text-align:center;
+}
+.centre1 {
+  padding-bottom: 2em;
+  text-align: center;
+}
+.indexcontactwrap {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom:1em;
+
+}
+
+@media only screen and (max-width: 600px) {
+  .indexcontactwrap {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+  }
+  .indexnewswrap {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+  }
 }

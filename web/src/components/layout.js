@@ -23,7 +23,7 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
             <ul class="footer-links">
               <li><Link to='/about-us/'>About Us</Link></li>
               <li><Link to='/profile-of-lawyers/'>Profile of Lawyers</Link></li>
-              <li><Link to='/blogs/'>Blogs</Link></li>
+              <li><Link to='/news/'>News</Link></li>
               <li><Link to="/contact/">Contact Us</Link></li> 
 
             </ul>

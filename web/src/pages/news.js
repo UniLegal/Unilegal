@@ -28,6 +28,7 @@ export const query = graphql`
             alt
           }
           title
+          publishedAt
           _rawExcerpt
           slug {
             current
@@ -54,14 +55,12 @@ const ArchivePage = props => {
       <SEO title='Blogs' />
       <div class="container1111 desktop">
         <img src={headerimg} alt="Snow" width="1920" height="419" />
-        <div class="centered"><h1>Blogs</h1>
-          <p>View our past cases and  </p>
+        <div class="centered"><h1>News</h1>
         </div>
       </div>
       <div class="container1111 mobile">
         <img src={mobileheaderimg} alt="Snow" width="1015" height="807" />
-        <div class="centered"><h1>Blogs</h1>
-          <p>Have a question? Need help with the products? Drop us a message here and we will try our best to help you!</p>
+        <div class="centered"><h1>News</h1>
         </div>
       </div>
       <Container>

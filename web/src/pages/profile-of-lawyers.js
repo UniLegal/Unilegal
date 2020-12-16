@@ -13,6 +13,7 @@ import yoongnc from '../images/lawyers/yoongnc.jpg'
 import eric from '../images/lawyers/eric.jpg'
 import leonard from '../images/lawyers/leonard.jpg'
 import chia from '../images/lawyers/chia.jpg'
+import tri from '../images/lawyers/tri.png'
 
 import $ from 'jquery'; 
 
@@ -34,7 +35,13 @@ const warrantyRequestPage = props => {
           $('#open4').slideUp("slow");
           $('#open3').slideUp("slow");
           $('#open5').slideUp("slow");
+          $('#tri5').slideUp("slow");
+          $('#tri2').slideUp("slow");
+          $('#tri3').slideUp("slow");
+          $('#tri4').slideUp("slow");
           $('#open1').slideToggle("slow");
+          $('#tri1').slideToggle("slow");
+
         }
       });
       $('#l2').click(function () {
@@ -44,11 +51,15 @@ const warrantyRequestPage = props => {
         else {
           $('#open1').slideUp("slow");
           $('#open4').slideUp("slow");
-
           $('#open3').slideUp("slow");
           $('#open5').slideUp("slow");
-
+          $('#tri1').slideUp("slow");
+          $('#tri5').slideUp("slow");
+          $('#tri3').slideUp("slow");
+          $('#tri4').slideUp("slow");
           $('#open2').slideToggle("slow");
+          $('#tri2').slideToggle("slow");
+
         }
       });
       $('#l3').click(function () {
@@ -61,8 +72,13 @@ const warrantyRequestPage = props => {
 
           $('#open1').slideUp("slow");
           $('#open5').slideUp("slow");
-
+          $('#tri1').slideUp("slow");
+          $('#tri2').slideUp("slow");
+          $('#tri5').slideUp("slow");
+          $('#tri4').slideUp("slow");
           $('#open3').slideToggle("slow");
+          $('#tri3').slideToggle("slow");
+
         }
       });
       $('#l4').click(function () {
@@ -72,11 +88,15 @@ const warrantyRequestPage = props => {
         else {
           $('#open1').slideUp("slow");
           $('#open2').slideUp("slow");
-
           $('#open3').slideUp("slow");
           $('#open5').slideUp("slow");
-
+          $('#tri1').slideUp("slow");
+          $('#tri2').slideUp("slow");
+          $('#tri3').slideUp("slow");
+          $('#tri5').slideUp("slow");
           $('#open4').slideToggle("slow");
+          $('#tri4').slideToggle("slow");
+
         }
       });
       $('#l5').click(function () {
@@ -89,8 +109,13 @@ const warrantyRequestPage = props => {
 
           $('#open3').slideUp("slow");
           $('#open1').slideUp("slow");
-
+          $('#tri1').slideUp("slow");
+          $('#tri2').slideUp("slow");
+          $('#tri3').slideUp("slow");
+          $('#tri4').slideUp("slow");
           $('#open5').slideToggle("slow");
+          $('#tri5').slideToggle("slow");
+
         }
       });
       $('#l6').click(function () {
@@ -103,8 +128,13 @@ const warrantyRequestPage = props => {
 
           $('#open9').slideUp("slow");
           $('#open10').slideUp("slow");
-
+          $('#tri10').slideUp("slow");
+          $('#tri7').slideUp("slow");
+          $('#tri8').slideUp("slow");
+          $('#tri9').slideUp("slow");
           $('#open6').slideToggle("slow");
+          $('#tri6').slideToggle("slow");
+
         }
       });
       $('#l7').click(function () {
@@ -117,8 +147,13 @@ const warrantyRequestPage = props => {
 
           $('#open9').slideUp("slow");
           $('#open10').slideUp("slow");
-
+          $('#tri6').slideUp("slow");
+          $('#tri10').slideUp("slow");
+          $('#tri8').slideUp("slow");
+          $('#tri9').slideUp("slow");
           $('#open7').slideToggle("slow");
+          $('#tri7').slideToggle("slow");
+
         }
       });
       $('#l8').click(function () {
@@ -131,8 +166,13 @@ const warrantyRequestPage = props => {
 
           $('#open9').slideUp("slow");
           $('#open10').slideUp("slow");
-
+          $('#tri6').slideUp("slow");
+          $('#tri7').slideUp("slow");
+          $('#tri10').slideUp("slow");
+          $('#tri9').slideUp("slow");
           $('#open8').slideToggle("slow");
+          $('#tri8').slideToggle("slow");
+
         }
       });
       $('#l9').click(function () {
@@ -145,8 +185,13 @@ const warrantyRequestPage = props => {
 
           $('#open8').slideUp("slow");
           $('#open10').slideUp("slow");
-
+          $('#tri6').slideUp("slow");
+          $('#tri7').slideUp("slow");
+          $('#tri8').slideUp("slow");
+          $('#tri10').slideUp("slow");
           $('#open9').slideToggle("slow");
+          $('#tri9').slideToggle("slow");
+
         }
       });
       $('#l10').click(function () {
@@ -159,38 +204,48 @@ const warrantyRequestPage = props => {
 
           $('#open8').slideUp("slow");
           $('#open9').slideUp("slow");
+          $('#tri6').slideUp("slow");
+          $('#tri7').slideUp("slow");
+          $('#tri8').slideUp("slow");
+          $('#tri9').slideUp("slow");
 
           $('#open10').slideToggle("slow");
+          $('#tri10').slideToggle("slow");
+
         }
 
       });
       $('#l11').click(function () {
         if (mob == true) {
-          $('#open12').slideUp("slow");
-
           $('#open11mob').slideToggle("slow");
         }
         else {
           $('#open12').slideUp("slow");
+          $('#tri12').slideUp("slow");
 
           $('#open11').slideToggle("slow");
+          $('#tri11').slideToggle("slow");
+
         }
       });
       $('#l12').click(function () {
         if (mob == true) {
-          $('#open11').slideUp("slow");
           $('#open12mob').slideToggle("slow");
         }
         else {
           $('#open11').slideUp("slow");
+          $('#tri11').slideUp("slow");
           $('#open12').slideToggle("slow");
+          $('#tri12').slideToggle("slow");
+
         }
       });
     });
   }
 
     function showoverlay(num) {
-        if (mob == true) {
+      if (mob == true) {
+        console.log('#open' + num + 'mob');
             $('#open' + num + 'mob').slideUp("slow");
         }
         else {
@@ -200,9 +255,13 @@ const warrantyRequestPage = props => {
   return (
     <Layout>
           <SEO title="Profile of Lawyers" />
-          <div class="installclass" style={{ marginTop: 1 + 'em' }}>
+      <div class="installclasswrap">
+
+          <div class="installclass" style={{ marginTop: 0.5 + 'em' }}>
           <div class="install">
-                      <img class="installimg" id="l2" height="3024" width="3024" src={lai} alt="portomono installation guide" />
+          <img class="installimg" id="l2" height="3024" width="3024" src={lai} alt="portomono installation guide" />
+          <img src={tri} id="tri2"class="tri" alt="portomono installation guide" />
+
                   </div>
               <div class="open" id="open2mob">
                   <div class="inner">
@@ -231,7 +290,9 @@ const warrantyRequestPage = props => {
                   </div>
               </div>
           <div class="install">
-                      <img class="installimg" id="l1" height="3024" width="3024" src={ranvir} alt="portomono installation guide"/>
+          <img class="installimg" id="l1" height="3024" width="3024" src={ranvir} alt="portomono installation guide" />
+          <img src={tri} id="tri1" class="tri" alt="portomono installation guide" />
+
           </div>
               <div class="open" id="open1mob">
                   <div class="inner">
@@ -242,7 +303,7 @@ const warrantyRequestPage = props => {
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "3")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "1")} >
                                   &#215;
                   </button>
                           </div>
@@ -258,19 +319,22 @@ const warrantyRequestPage = props => {
                           Tel: <a href="tel:+656236 2430">+65 6236 2430</a>
                           </div>
                           <div class="right">
-                              Ranvir graduated from National University of Singapore with LL.B (Hons) in 1984. He also graduated from Singapore Institute of Management with Dip F Mgt in 1990. He was admitted to the Singapore Bar in 1985 and has been in private practice ever since.
-                          <br /><br />
+                Ranvir obtained LLB (Hons) from National University of Singapore and LLM from King’s College London. Also obtained Diploma in International Arbitration from Chartered Institute of Arbitrators (UK) and Graduate Diploma in Financial Management from Singapore Institute of Management.
+                <br /><br />
+                Admitted to Singapore Bar in 1985 and has been in private practice ever since handling a wide spectrum of legal matters. Frequently appears as counsel in local courts. Increasingly involved in litigation abroad and has been involved in litigation in Australia, India, Indonesia, People’s Republic of China, Philippines, Thailand, Malaysia and New Zealand.
+                <br /><br />
+                Has been lead counsel in a number of large and complicated cases and has  argued cases in superior courts in Singapore, International Court of Arbitration of ICC, Singapore International Arbitration Centre and Hong Kong International Arbitration Centre.
+                <br /><br />
+                Fluent in English, Malay and Hindi. Conversant in Mandarin and in some Chinese dialects. Active in social and community work and holds key positions in several charitable organisations.
 
-                          Ranvir is a very practical and pragmatic lawyer and he has gained considerable exposure and experience in a wide spectrum of legal matters. He has been the lead Counsel in a number of large complicated cases. He is an active Advocate who has argued cases in superior Courts in Singapore, the International Court of Arbitration of the International Chamber of Commerce, Singapore International Arbitration Centre and Singapore Mediation Centre.
-                          <br /><br />
-
-                          Fluent in English, Hindi and Malay. Conversant in some Chinese dialects. He is active in social and community work and holds key positions in a number of organisations.
                                      </div></div>
                   </div>
               </div>
 
           <div class="install">
-                  <img class="installimg" id="l3" height="3024" width="3024" src={yoongnc} alt="portomono installation guide"/>
+          <img class="installimg" id="l3" height="3024" width="3024" src={yoongnc} alt="portomono installation guide" />
+          <img src={tri} id="tri3" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open3mob">
                   <div class="inner">
@@ -280,7 +344,7 @@ const warrantyRequestPage = props => {
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "9")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "3")} >
                                   &#215;
                   </button>
                           </div>
@@ -305,7 +369,9 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                   </div>
               </div>
           <div class="install">
-                      <img class="installimg" id="l4" height="3024" width="3024" src={ng} alt="portomono installation guide"/>
+          <img class="installimg" id="l4" height="3024" width="3024" src={ng} alt="portomono installation guide" />
+          <img src={tri} id="tri4" class="tri" alt="portomono installation guide" />
+
           </div>        
               <div class="open" id="open4mob">
                   <div class="inner">
@@ -315,7 +381,7 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "6")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "4")} >
                                   &#215;
                   </button>
                           </div>
@@ -338,7 +404,9 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                   </div>
               </div>
                   <div class="install">
-                      <img class="installimg" id="l5" height="3024" width="3024" src={nazim} alt="portomono installation guide"/>
+          <img class="installimg" id="l5" height="3024" width="3024" src={nazim} alt="portomono installation guide" />
+          <img src={tri} id="tri5" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open5mob">
                   <div class="inner">
@@ -349,7 +417,7 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "7")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "5")} >
                                   &#215;
                   </button>
                           </div>
@@ -411,13 +479,14 @@ A fuller curriculum vitae can be provided upon request
 
                       </div>
                       <div class="right">
-                          Ranvir graduated from National University of Singapore with LL.B (Hons) in 1984. He also graduated from Singapore Institute of Management with Dip F Mgt in 1990. He was admitted to the Singapore Bar in 1985 and has been in private practice ever since.
-                          <br /><br />
+              Ranvir obtained LLB (Hons) from National University of Singapore and LLM from King’s College London. Also obtained Diploma in International Arbitration from Chartered Institute of Arbitrators (UK) and Graduate Diploma in Financial Management from Singapore Institute of Management.
+                <br /><br />
+                Admitted to Singapore Bar in 1985 and has been in private practice ever since handling a wide spectrum of legal matters. Frequently appears as counsel in local courts. Increasingly involved in litigation abroad and has been involved in litigation in Australia, India, Indonesia, People’s Republic of China, Philippines, Thailand, Malaysia and New Zealand.
+                <br /><br />
+                Has been lead counsel in a number of large and complicated cases and has  argued cases in superior courts in Singapore, International Court of Arbitration of ICC, Singapore International Arbitration Centre and Hong Kong International Arbitration Centre.
+                <br /><br />
+                Fluent in English, Malay and Hindi. Conversant in Mandarin and in some Chinese dialects. Active in social and community work and holds key positions in several charitable organisations.
 
-                          Ranvir is a very practical and pragmatic lawyer and he has gained considerable exposure and experience in a wide spectrum of legal matters. He has been the lead Counsel in a number of large complicated cases. He is an active Advocate who has argued cases in superior Courts in Singapore, the International Court of Arbitration of the International Chamber of Commerce, Singapore International Arbitration Centre and Singapore Mediation Centre.
-                          <br /><br />
-
-                          Fluent in English, Hindi and Malay. Conversant in some Chinese dialects. He is active in social and community work and holds key positions in a number of organisations.
                                             </div></div>
                   </div>
           </div>
@@ -537,10 +606,14 @@ Over the years he has also advised High Net Worth individuals and Entrepreneurs 
 A fuller curriculum vitae can be provided upon request
                           </div></div>
                   </div>
-          </div>
+      </div>
+      </div>
+      <div class="installclasswrap">
           <div class="installclass">
               <div class="install">
-                  <img class="installimg" id="l6" height="3024" width="3024" src={clarence} alt="portomono installation guide" />
+          <img class="installimg" id="l6" height="3024" width="3024" src={clarence} alt="portomono installation guide" />
+          <img src={tri} id="tri6" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open6mob">
                   <div class="inner">
@@ -551,7 +624,7 @@ A fuller curriculum vitae can be provided upon request
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "8")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "6")} >
                                   &#215;
                   </button>
                           </div>
@@ -575,7 +648,9 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
                   </div>
               </div>
               <div class="install">
-                  <img class="installimg" id="l7" height="3024" width="3024" src={leonard} alt="portomono installation guide" />
+          <img class="installimg" id="l7" height="3024" width="3024" src={leonard} alt="portomono installation guide" />
+          <img src={tri} id="tri7" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open7mob">
                   <div class="inner">
@@ -586,7 +661,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
                   Partner<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "11")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "7")} >
                                   &#215;
                   </button>
                           </div>
@@ -609,7 +684,9 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
               </div>
 
               <div class="install">
-                  <img class="installimg" id="l8" height="3024" width="3024" src={ernest} alt="portomono installation guide" />
+          <img class="installimg" id="l8" height="3024" width="3024" src={ernest} alt="portomono installation guide" />
+          <img src={tri} id="tri8" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open8mob">
                   <div class="inner">
@@ -620,7 +697,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "4")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "8")} >
                                   &#215;
                   </button>
                           </div>
@@ -681,7 +758,9 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
                   </div>
               </div>
               <div class="install">
-                  <img class="installimg" id="l9" height="3024" width="3024" src={serena} alt="portomono installation guide" />
+          <img class="installimg" id="l9" height="3024" width="3024" src={serena} alt="portomono installation guide" />
+          <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open9mob">
                   <div class="inner">
@@ -692,7 +771,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "5")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "9")} >
                                   &#215;
                   </button>
                           </div>
@@ -712,7 +791,9 @@ Serena has extensive experience in all types of banking transactions including r
                   </div>
               </div>
               <div class="install">
-                  <img class="installimg" id="l10" height="3024" width="3024" src={kenneth} alt="portomono installation guide" />
+          <img class="installimg" id="l10" height="3024" width="3024" src={kenneth} alt="portomono installation guide" />
+          <img src={tri} id="tri10" class="tri" alt="portomono installation guide" />
+
               </div>
               <div class="open" id="open10mob">
                   <div class="inner">
@@ -723,7 +804,7 @@ Serena has extensive experience in all types of banking transactions including r
                   Consultant<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "2")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "10")} >
                                   &#215;
                   </button>
                           </div>
@@ -914,10 +995,14 @@ Serena has extensive experience in all types of banking transactions including r
                   </div>
 
               </div>
-          </div>
+      </div>
+      </div>
+      <div class="installclasswrap">
           <div class="installclass">
               <div class="installone">
-                  <img class="installimg" id="l11" height="3024" width="3024" src={eric} alt="portomono installation guide" />
+          <img class="installimg" id="l11" height="3024" width="3024" src={eric} alt="portomono installation guide" />
+          <img src={tri} id="tri11" class="tri" alt="portomono installation guide" />
+
 
               </div>
               <div class="open" id="open11mob">
@@ -929,7 +1014,7 @@ Serena has extensive experience in all types of banking transactions including r
                   Director<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "10")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "11")} >
                                   &#215;
                   </button>
                           </div>
@@ -969,7 +1054,9 @@ Serena has extensive experience in all types of banking transactions including r
                   </div>
               </div>
               <div class="installone">
-                  <img class="installimg" id="l12" height="3024" width="3024" src={chia} alt="portomono installation guide" />
+          <img class="installimg" id="l12" height="3024" width="3024" src={chia} alt="portomono installation guide" />
+          <img src={tri} id="tri12" class="tri" alt="portomono installation guide" />
+
 
               </div>
               <div class="open" id="open12mob">
@@ -981,7 +1068,7 @@ Serena has extensive experience in all types of banking transactions including r
                   Partner<br />
                           </div>
                           <div class="btnmob">
-                              <button class="crossmob" onClick={showoverlay.bind(null, "10")} >
+                              <button class="crossmob" onClick={showoverlay.bind(null, "12")} >
                                   &#215;
                   </button>
                           </div>
@@ -1085,7 +1172,8 @@ His current areas of focus include:
                   </div>
 
               </div>
-          </div>
+        </div>
+        </div>
     </Layout>
   )
 }
