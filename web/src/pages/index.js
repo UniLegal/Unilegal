@@ -74,7 +74,7 @@ const IndexPage = props => {
     return (
       <Layout>
         <GraphQLErrorList errors={errors} />
-      </Layout> 
+      </Layout>
     )
   }
   function colorSet() {
@@ -95,71 +95,71 @@ const IndexPage = props => {
     <Layout>
       <SEO title={site.title} description={site.description} keywords={site.keywords} />
       <div className="App">
-          <img class="indeximg" src={slide} alt="portomono glass protect screen protector slide" />
-          <img class="indeximgmob" src={mobslide2} alt="portomono glass protect screen protector slide" />
+        <img class="indeximg" src={slide} alt="portomono glass protect screen protector slide" />
+        <img class="indeximgmob" src={mobslide2} alt="portomono glass protect screen protector slide" />
 
-      <div class="about">
-        <div class="brand">About UniLegal</div>
-                  <div class="desc">Welcome to the website of UniLegal LLC. We are a dynamic law firm, established for more than a decade with a wide range of expertise and experience, providing exceptional advice and service at competitive costs. 
+        <div class="about">
+          <div class="brand">ABOUT UNILEGAL</div>
+          <div class="desc">Welcome to the website of UniLegal LLC. We are a dynamic law firm, established for more than a decade with a wide range of expertise and experience, providing exceptional advice and service at competitive costs.
           </div>
-              </div>
+        </div>
         <div class="indexnews">
           <div class="indexnewswrap">
-            <div class="newstitle">News</div>
+            <div class="newstitle">NEWS</div>
 
-        {projectNodes && (
-          <ProjectPreviewGrid
-            nodes={projectNodes}
-          />
+            {projectNodes && (
+              <ProjectPreviewGrid
+                nodes={projectNodes}
+              />
             )}
             <div class="centre1">
-            <a href="/news/"><button class="newsbtn">Read More</button></a>
-        </div>
-        </div>
+              <a href="/news/"><button class="newsbtn">Read More</button></a>
+            </div>
+          </div>
         </div>
 
         <div class="indexcontactwrap">
-          <div class="newstitle">Contact Us</div>
+          <div class="newstitle">CONTACT US</div>
 
           <div class="contactus">
             <div class="left">
 
-        <form id="contactform" class="contactusform" name="Contact Form" action="https://getsimpleform.com/messages?form_api_token=123ert67890oikjmnhb" method="post">
-          <input type='hidden' name='redirect_to' value='http://www.portomono.me/thank-you' />
+              <form id="contactform" class="contactusform" name="Contact Form" action="https://getsimpleform.com/messages?form_api_token=123ert67890oikjmnhb" method="post">
+                <input type='hidden' name='redirect_to' value='http://www.portomono.me/thank-you' />
 
-          <input type="hidden" name="form-name" value="Contact Form" />
-          <div class="flex">
+                <input type="hidden" name="form-name" value="Contact Form" />
+                <div class="flex">
 
-            <div>
-              <input placeholder="Name" type="text" name="name" />
-            </div>
-            <div>
-              <input placeholder="Phone Number" type="text" name="phonenumber" />
+                  <div>
+                    <input placeholder="Name" type="text" name="name" />
+                  </div>
+                  <div>
+                    <input placeholder="Phone Number" type="text" name="phonenumber" />
+                  </div>
+                </div>
+                <div class="flex">
+                  <div>
+                    <input placeholder="E-mail" type="email" name="email" />
+                  </div>
+                  <div>
+                    <select id="selection" name="enquirytype" placeholder="Choose Enquiry Type" onClick={colorSet} onChange={selectchange} required="">
+                      <option value="" hidden selected="">Choose Enquiry Type</option>
+                      <option value="https://getsimpleform.com/messages?form_api_token=98e8867c4b508288f7697c44adfbcb05">Corporate</option>
+                      <option value="https://getsimpleform.com/messages?form_api_token=77777777">Litigation</option>
+                      <option value="https://getsimpleform.com/messages?form_api_token=666666666">Conveyance</option>
+                    </select>
+                  </div>
+                </div>
+
+                <div class="textarea">
+                  <textarea placeholder="Your Message" name="message" />
+                </div>
+                <button type="submit">Send</button>
+              </form>
             </div>
           </div>
-          <div class="flex">
-            <div>
-              <input placeholder="E-mail" type="email" name="email" />
-            </div>
-            <div>
-              <select id="selection" name="enquirytype" placeholder="Choose Enquiry Type" onClick={colorSet} onChange={selectchange} required="">
-                <option value="" hidden selected="">Choose Enquiry Type</option>
-                <option value="https://getsimpleform.com/messages?form_api_token=98e8867c4b508288f7697c44adfbcb05">Corporate</option>
-                <option value="https://getsimpleform.com/messages?form_api_token=77777777">Litigation</option>
-                <option value="https://getsimpleform.com/messages?form_api_token=666666666">Conveyance</option>
-              </select>
-            </div>
-          </div>
-
-          <div class="textarea">
-            <textarea placeholder="Your Message" name="message" />
-          </div>
-          <button type="submit">Send</button>
-        </form>
+        </div>
       </div>
-        </div>
-        </div>
-        </div>
     </Layout>
   )
 }

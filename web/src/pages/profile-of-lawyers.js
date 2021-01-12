@@ -303,7 +303,12 @@ const warrantyRequestPage = props => {
                           Tel: <a href="tel:+6562362983">+65 6236 2983</a>
                 </div>
                 <div class="right">
-                  Swee Fung graduated from the National University of Singapore in 1984. Since then he has been involved in civil & criminal litigation and arbitration. He obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999. He is a Founding Director of UniLegal LLC. Prior to that he was a Senior Partner of Chan Ng Aqbal and a Partner of Toh Tan & Partners. He has been involved in numerous litigation cases involving commercial, construction, family, estate, property, conveyancing, criminal and other matters.</div>
+                  Swee Fung graduated from the National University of Singapore in August 1984. He was admitted as an Advocate & Solicitor to the Singapore Bar in February 1985. Since then, he has been involved in continuous professional legal practice in Singapore for more than 35 years. He has built up a reservoir of deep and wide knowledge in the practice of law.<br /><br />
+                  He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.  <br /><br />
+                  Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
+                  As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
+                  Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.
+                </div>
               </div>
             </div>
           </div>
@@ -536,7 +541,12 @@ A fuller curriculum vitae can be provided upon request
                           Tel: <a href="tel:+6562362983">+65 6236 2983</a>
               </div>
               <div class="right">
-                Swee Fung graduated from the National University of Singapore in 1984. Since then he has been involved in civil & criminal litigation and arbitration. He obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999. He is a Founding Director of UniLegal LLC. Prior to that he was a Senior Partner of Chan Ng Aqbal and a Partner of Toh Tan & Partners. He has been involved in numerous litigation cases involving commercial, construction, family, estate, property, conveyancing, criminal and other matters.</div>
+                Swee Fung graduated from the National University of Singapore in August 1984. He was admitted as an Advocate & Solicitor to the Singapore Bar in February 1985. Since then, he has been involved in continuous professional legal practice in Singapore for more than 35 years. He has built up a reservoir of deep and wide knowledge in the practice of law.<br /><br />
+                  He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.  <br /><br />
+                  Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
+                  As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
+                  Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.
+                </div>
             </div>
           </div>
         </div>
@@ -1079,15 +1089,18 @@ His current areas of focus include:
           <div class="open" id="open13mob">
             <div class="inner">
               <div class="inner13">
+                <div class="positiondiv">
 
-                <div class="position">
-                  Kunal Mirpuri<br />
+                  <div class="position">
+                    Kunal Mirpuri<br />
                   Partner<br />
-                </div>
-                <div class="btnmob">
-                  <button class="crossmob" onClick={showoverlay.bind(null, "11")} >
-                    &#215;
+                  </div>
+
+                  <div class="btnmob">
+                    <button class="crossmob" onClick={showoverlay.bind(null, "13")} >
+                      &#215;
                   </button>
+                  </div>
                 </div>
               </div>
 

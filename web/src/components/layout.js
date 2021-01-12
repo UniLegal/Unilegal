@@ -11,7 +11,7 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
     <Helmet>
       <link rel="icon" href={favicon} />
     </Helmet>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
     <Header siteTitle={siteTitle} siteImage={siteImage} onHideNav={onHideNav} onShowNav={onShowNav} showNav={showNav} />
     <div className={styles.content}>{children}</div>
     <footer class="site-footer">
@@ -24,7 +24,7 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
               <li><Link to='/about-us/'>About Us</Link></li>
               <li><Link to='/profile-of-lawyers/'>Profile of Lawyers</Link></li>
               <li><Link to='/news/'>News</Link></li>
-              <li><Link to="/contact/">Contact Us</Link></li> 
+              <li><Link to="/contact/">Contact Us</Link></li>
 
             </ul>
           </div>
@@ -32,19 +32,18 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
       </div>
       <div class="footericon">
         <a href="https://www.facebook.com/UniLegal-LLC-177963516095678" target="_blank" class="fa fa-facebook" rel="noreferrer"></a>
-                <a  href="https://www.youtube.com" target="_blank" class="fa fa-twitter" rel="noreferrer"></a>
-                <a href="https://www.instagram.com" target="_blank" class="fa fa-linkedin" rel="noreferrer"></a>
-        </div>
+        <a href="https://www.linkedin.com/company/unilegal-llc" target="_blank" class="fa fa-linkedin" rel="noreferrer"></a>
+      </div>
       <div class="line"></div>
-        <div class="container1">
-          <div class="row">
-            <div class="col-md-8 col-sm-6 col-xs-12">
+      <div class="container1">
+        <div class="row">
+          <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2020 All Rights Reserved by <Link to='/'>UniLegal LLC</Link>.
             </p>
-            </div>
-
           </div>
+
         </div>
+      </div>
     </footer>
   </>
 )

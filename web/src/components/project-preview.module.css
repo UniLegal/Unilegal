@@ -4,9 +4,7 @@
   text-decoration: none;
 }
 
-.title {
-  composes: responsiveTitle1 from './typography.module.css';
-}
+
 
 .leadMediaThumb {
   position: relative;
