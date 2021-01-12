@@ -28,11 +28,7 @@ function ProjectPreview(props) {
           : format(new Date(props.publishedAt), 'MMMM Do YYYY')}
       </div>
       <h3 className="project-preview-title">{props.title}</h3>
-      {props._rawExcerpt && (
-        <div className={styles.excerpt}>
-          <BlockText blocks={props._rawExcerpt} />
-        </div>
-      )}
+
     </Link>
   )
 }

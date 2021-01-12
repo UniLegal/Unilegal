@@ -55,7 +55,6 @@ export const query = graphql`
           }
           title
           publishedAt
-          _rawExcerpt
           slug {
             current
           }

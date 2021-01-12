@@ -1,5 +1,5 @@
 import React from 'react'
-import {graphql} from 'gatsby'
+import { graphql } from 'gatsby'
 import Container from '../components/container'
 import GraphQLErrorList from '../components/graphql-error-list'
 import Project from '../components/project'
@@ -15,13 +15,7 @@ export const query = graphql`
         _id
         title
       }
-      relatedProjects {
-        title
-        _id
-        slug {
-          current
-        }
-      }
+
       mainImage {
         crop {
           _key
@@ -82,7 +76,7 @@ export const query = graphql`
 `
 
 const ProjectTemplate = props => {
-  const {data, errors} = props
+  const { data, errors } = props
   const project = data && data.sampleProject
   return (
     <Layout>
