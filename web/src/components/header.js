@@ -9,7 +9,6 @@ import { Dropdown, DropdownToggle, DropdownMenu } from 'reactstrap';
 import Accordion1 from "../components/headeraccordion/Accordion";
 import 'jquery/dist/jquery.min.js'
 import 'popper.js/dist/popper.min'
-import 'bootstrap/dist/js/bootstrap.min.js'
 import "bootstrap/dist/css/bootstrap.min.css";
 const Example = (props) => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
