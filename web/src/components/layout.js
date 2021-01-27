@@ -28,6 +28,13 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
 
             </ul>
           </div>
+          <div class="col-xs-6 col-md-3">
+            <h6>Practice Areas</h6>
+            <ul class="footer-links">
+              <li><Link to='/practice-areas/'>Litigation</Link></li>
+
+            </ul>
+          </div>
         </div>
       </div>
       <div class="footericon">

@@ -99,7 +99,7 @@ const IndexPage = props => {
 
         <div class="about">
           <div class="brand">ABOUT UNILEGAL</div>
-          <div class="desc">Welcome to the website of UniLegal LLC. We are a dynamic law firm, established for more than a decade with a wide range of expertise and experience, providing exceptional advice and service at competitive costs.
+          <div class="desc">Welcome to the website of UniLegal LLC. We are a dynamic law firm, established in 2002 with a wide range of expertise and experience, providing exceptional advice and service at competitive costs.
           </div>
         </div>
         <div class="indexnews">

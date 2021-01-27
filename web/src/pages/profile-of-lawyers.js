@@ -304,11 +304,141 @@ const warrantyRequestPage = props => {
                 </div>
                 <div class="right">
                   Swee Fung graduated from the National University of Singapore in August 1984. He was admitted as an Advocate & Solicitor to the Singapore Bar in February 1985. Since then, he has been involved in continuous professional legal practice in Singapore for more than 35 years. He has built up a reservoir of deep and wide knowledge in the practice of law.<br /><br />
-                  He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.  <br /><br />
-                  Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
-                  As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
-                  Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.
-                </div>
+                He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.<br /><br />
+                Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
+                As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
+                Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.<br /><br />
+                The following are some of the cases in the High Court or Court of Appeal in Singapore in which Lai Swee Fung has acted in:-<br /><br />
+
+
+                Heinrich Pte Ltd and another v Lau Kim Huat and others<br />
+                [2016] SGHC 116
+                <br /><br />
+                Tan Chwee Chye and others v P V R M Kulandayan Chettiar<br />
+                [2006] 1 SLR(R) 229; [2005] SGHC 203
+                <br /><br />
+                Chan Yuen Lan v See Fong Mun<br />
+                [2014] 3 SLR 1048; [2014] SGCA 36
+                <br /><br />
+                See Fong Mun v Chan Yuen Lan<br />
+                [2013] 3 SLR 685; [2013] SGHC 99
+                <br /><br />
+                Ng Siok Poh (administratrix of the estate of Lim Lian Chiat, deceased) and another v Sim Lian-Koru Bena JV Pte Ltd<br />
+                [2018] 4 SLR 731; [2017] SGHC 231
+                <br /><br />
+                National Foods Ltd v Pars Ram Brothers (Pte) Ltd<br />
+                [2007] 2 SLR(R) 1048; [2007] SGCA 23
+                <br /><br />
+                National Foods Ltd v Pars Ram Brothers (Pte) Ltd<br />
+                [2006] 4 SLR(R) 640; [2006] SGHC 173
+                <br /><br />
+                N K Rajarh and others v Tan Eng Chuan and others<br />
+                [2014] 1 SLR 694; [2013] SGCA 62
+                <br /><br />
+                N K Rajarh and others v Tan Eng Chuan and others<br />
+                [2013] 3 SLR 103; [2013] SGHC 76
+                <br /><br />
+                Chi Liung Holdings Sdn Bhd v Attorney-General<br />
+                [1994] 2 SLR(R) 314; [1994] SGCA 68
+                <br /><br />
+                Chi Liung Holdings Sdn Bhd v Attorney-General<br />
+                [1993] 1 SLR(R) 708; [1993] SGHC 95
+                <br /><br />
+                Development Bank of Singapore Ltd v Eng Keong Realty Pte Ltd and another<br />
+                [1990] 1 SLR(R) 265; [1990] SGHC 21
+                <br /><br />
+                Development Bank of Singapore Ltd v Eng Keong Realty Pte Ltd & Anor<br />
+                [1990] 3 MLJ 89
+                <br /><br />
+                Lee Seng Eder v Wee Kim Chwee and others<br />
+                [2014] 2 SLR 56; [2013] SGHC 287
+                <br /><br />
+                Lee Seng Eder v Wee Kim Chwee and others<br />
+                [2015] SGHCR 02
+                <br /><br />
+                Ng Guat Hua v Onestoneinvest Pte Ltd and Others<br />
+                [2008] SGHC 156
+                <br /><br />
+                Nylect Engineering Pte Ltd v BKB Engineering Constructions Pte Ltd and Another<br />
+                [2004] SGHC 245
+                <br /><br />
+                TEC v TED<br />
+                [2015] SGFC 93
+                <br /><br />
+                UEY v UEZ<br />
+                [2017] SGFC 108
+                <br /><br />
+                TEK v TEL<br />
+                [2015] SGFC 117
+                <br /><br />
+                BC v BD (BE, Third Party)<br />
+                [2004] SGDC 99
+                <br /><br />
+                Leong Yoke Wah v Lam Lan<br />
+                [2006] SGDC 175
+                <br /><br />
+                Re Wan Yijun and another<br />
+                [1990] 2 SLR(R) 157; [1990] SGHC 65
+                <br /><br />
+                OP v OQ
+                [2006] SGDC 72
+                <br /><br />
+                Law Society of Singapore v Tham Kok Leong Thomas<br />
+                [2006] 1 SLR(R) 775; [2005] SGHC 231
+                <br /><br />
+                Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another<br />
+                [1995] 2 SLR(R) 643; [1995] SGCA 58
+                <br /><br />
+                Lam Seng Tiong and another v Pacific Rim Investments Pte Ltd<br />
+                [1994] 3 SLR(R) 387; [1994] SGHC 232
+                <br /><br />
+                Wardley Ltd v Datin Chong Mooi Lan and another (administratrix and administrator of the estate of Dato Tong Lee Hwa, deceased)<br />
+                [1993] 1 SLR(R) 469; [1993] SGCA 17
+                <br /><br />
+                Chea Teng Kim v The Wing On Fire & Marine Insurance Co Ltd & Anor<br />
+                [1992] SGHC 248
+                <br /><br />
+                Chea Teng Kim trading as Chea Kim Heng Jewellery v The Wing On Fire & Marine Insurance Co Ltd and Another<br />
+                [1992] SGHC 144
+                <br /><br />
+                The Official Assignee of The Estate of Teo Hia Khoon, a bankrupt and Others v Toh Soo Meng<br />
+                [1998] SGHC 415
+                <br /><br />
+                Newtech Engineering Construction Pte Ltd v BKB Engineering Constructions Pte Ltd and others<br />
+                [2003] 4 SLR(R) 73; [2003] SGHC 141
+                <br /><br />
+                Bayerische Landesbank Girozentrale v Teh Li Li<br />
+                [2000] 3 SLR(R) 345; [2000] SGHC 203
+                <br /><br />
+
+                Wong Kai Wah v Wong Kai Yuan and another<br />
+                [2014] SGHC 147
+                <br /><br />
+                Hamid Marine Services & Engrg Pte Ltd v Foo Siew Wei and others<br />
+                [2020] SGHC 190
+                <br /><br />
+                Choo Ah Sam v Kieu Ka Tong and another<br />
+                [2020] SGHC 62
+                <br /><br />
+                Containers Printers Pte Ltd v Christopher Tan and Another<br />
+                [1997] SGHC 273
+                <br /><br />
+                Panwah Steel Private Limited v DTG & Co Pte Ltd<br />
+                [2010] SGDC 150
+                <br /><br />
+                Exxonmobil Asia Pacific Pte Ltd v Bombay Dyeing & Manufacturing Co Ltd<br />
+                [2007] SGHC 137
+                <br /><br />
+                OCBC Wearnes & Walden Investments (Singapore) Limited and Others v Goh Shon Hai (Computer Measurement (S) Pte Ltd, Third Party)<br />
+                [1999] SGHC 164
+                <br /><br />
+                Chong Hor Yong trading as Jackie's Shoes Comapny v Chik Chun Wing trading as Tenlead Industrial & Commerce<br />
+                [1995] SGHC 26
+                <br /><br />
+                Jade Alliance Pte Ltd v Donald Mcarthy Pte Ltd<br />
+                [2004] SGDC 173
+
+</div>
               </div>
             </div>
           </div>
@@ -542,11 +672,141 @@ A fuller curriculum vitae can be provided upon request
               </div>
               <div class="right">
                 Swee Fung graduated from the National University of Singapore in August 1984. He was admitted as an Advocate & Solicitor to the Singapore Bar in February 1985. Since then, he has been involved in continuous professional legal practice in Singapore for more than 35 years. He has built up a reservoir of deep and wide knowledge in the practice of law.<br /><br />
-                  He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.  <br /><br />
-                  Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
-                  As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
-                  Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.
-                </div>
+                He has been involved in numerous civil litigation and arbitration cases, many of which are often cited as legal precedents and are reported in the Singapore Law Reports. His involvement in the numerous litigation cases includes commercial, construction, family, estate, property, conveyancing and other matters. In addition, in the various situations of conflict or dispute, whether the issues are relating to sale of goods or services, trust, company law, property, etc, he has always been closely involved in the dispute management process, advising where appropriate on avenues to avoid litigation (alternative dispute resolution and/or mediation) as well as litigating when we have to, in the Courts or via arbitration.<br /><br />
+                Swee Fung’s vast experience includes having acted on a regular basis for and advised numerous clients in matters that were mediated, arbitrated and/or litigated, in the appropriate forums including the apex courts of Singapore (The High Court and the Court of Appeal, Singapore).<br /><br />
+                As part of his belief in life-long learning, he had pursued further education and obtained a Masters of Business Administration (for Asia Pacific Executives) from National University of Singapore in 1999 and he regularly updates himself on the latest up-to-date knowledge so as to provide the best and excellent advice to his clients. His knowledge and skills therefore straddle many areas other than just purely the legal realm and he is able to often perceive and provide a more complete and holistic view of matters.<br /><br />
+                Swee Fung is an able initiator and makes things happen. He is a Founding Director of UniLegal LLC which he co-founded on 1 August 2001. Prior to that, he was a Senior Partner of two other law firms. He is also admitted as an Advocate & Solicitor in the Malaysian Bar (although he has since ceased practice there). As a sign of his maturity and strength, he remains the most senior director in UniLegal LLC and he has been with the law corporation since two (2) decades ago.<br /><br />
+                The following are some of the cases in the High Court or Court of Appeal in Singapore in which Lai Swee Fung has acted in:-<br /><br />
+
+
+                Heinrich Pte Ltd and another v Lau Kim Huat and others<br />
+                [2016] SGHC 116
+                <br /><br />
+                Tan Chwee Chye and others v P V R M Kulandayan Chettiar<br />
+                [2006] 1 SLR(R) 229; [2005] SGHC 203
+                <br /><br />
+                Chan Yuen Lan v See Fong Mun<br />
+                [2014] 3 SLR 1048; [2014] SGCA 36
+                <br /><br />
+                See Fong Mun v Chan Yuen Lan<br />
+                [2013] 3 SLR 685; [2013] SGHC 99
+                <br /><br />
+                Ng Siok Poh (administratrix of the estate of Lim Lian Chiat, deceased) and another v Sim Lian-Koru Bena JV Pte Ltd<br />
+                [2018] 4 SLR 731; [2017] SGHC 231
+                <br /><br />
+                National Foods Ltd v Pars Ram Brothers (Pte) Ltd<br />
+                [2007] 2 SLR(R) 1048; [2007] SGCA 23
+                <br /><br />
+                National Foods Ltd v Pars Ram Brothers (Pte) Ltd<br />
+                [2006] 4 SLR(R) 640; [2006] SGHC 173
+                <br /><br />
+                N K Rajarh and others v Tan Eng Chuan and others<br />
+                [2014] 1 SLR 694; [2013] SGCA 62
+                <br /><br />
+                N K Rajarh and others v Tan Eng Chuan and others<br />
+                [2013] 3 SLR 103; [2013] SGHC 76
+                <br /><br />
+                Chi Liung Holdings Sdn Bhd v Attorney-General<br />
+                [1994] 2 SLR(R) 314; [1994] SGCA 68
+                <br /><br />
+                Chi Liung Holdings Sdn Bhd v Attorney-General<br />
+                [1993] 1 SLR(R) 708; [1993] SGHC 95
+                <br /><br />
+                Development Bank of Singapore Ltd v Eng Keong Realty Pte Ltd and another<br />
+                [1990] 1 SLR(R) 265; [1990] SGHC 21
+                <br /><br />
+                Development Bank of Singapore Ltd v Eng Keong Realty Pte Ltd & Anor<br />
+                [1990] 3 MLJ 89
+                <br /><br />
+                Lee Seng Eder v Wee Kim Chwee and others<br />
+                [2014] 2 SLR 56; [2013] SGHC 287
+                <br /><br />
+                Lee Seng Eder v Wee Kim Chwee and others<br />
+                [2015] SGHCR 02
+                <br /><br />
+                Ng Guat Hua v Onestoneinvest Pte Ltd and Others<br />
+                [2008] SGHC 156
+                <br /><br />
+                Nylect Engineering Pte Ltd v BKB Engineering Constructions Pte Ltd and Another<br />
+                [2004] SGHC 245
+                <br /><br />
+                TEC v TED<br />
+                [2015] SGFC 93
+                <br /><br />
+                UEY v UEZ<br />
+                [2017] SGFC 108
+                <br /><br />
+                TEK v TEL<br />
+                [2015] SGFC 117
+                <br /><br />
+                BC v BD (BE, Third Party)<br />
+                [2004] SGDC 99
+                <br /><br />
+                Leong Yoke Wah v Lam Lan<br />
+                [2006] SGDC 175
+                <br /><br />
+                Re Wan Yijun and another<br />
+                [1990] 2 SLR(R) 157; [1990] SGHC 65
+                <br /><br />
+                OP v OQ
+                [2006] SGDC 72
+                <br /><br />
+                Law Society of Singapore v Tham Kok Leong Thomas<br />
+                [2006] 1 SLR(R) 775; [2005] SGHC 231
+                <br /><br />
+                Pacific Rim Investments Pte Ltd v Lam Seng Tiong and another<br />
+                [1995] 2 SLR(R) 643; [1995] SGCA 58
+                <br /><br />
+                Lam Seng Tiong and another v Pacific Rim Investments Pte Ltd<br />
+                [1994] 3 SLR(R) 387; [1994] SGHC 232
+                <br /><br />
+                Wardley Ltd v Datin Chong Mooi Lan and another (administratrix and administrator of the estate of Dato Tong Lee Hwa, deceased)<br />
+                [1993] 1 SLR(R) 469; [1993] SGCA 17
+                <br /><br />
+                Chea Teng Kim v The Wing On Fire & Marine Insurance Co Ltd & Anor<br />
+                [1992] SGHC 248
+                <br /><br />
+                Chea Teng Kim trading as Chea Kim Heng Jewellery v The Wing On Fire & Marine Insurance Co Ltd and Another<br />
+                [1992] SGHC 144
+                <br /><br />
+                The Official Assignee of The Estate of Teo Hia Khoon, a bankrupt and Others v Toh Soo Meng<br />
+                [1998] SGHC 415
+                <br /><br />
+                Newtech Engineering Construction Pte Ltd v BKB Engineering Constructions Pte Ltd and others<br />
+                [2003] 4 SLR(R) 73; [2003] SGHC 141
+                <br /><br />
+                Bayerische Landesbank Girozentrale v Teh Li Li<br />
+                [2000] 3 SLR(R) 345; [2000] SGHC 203
+                <br /><br />
+
+                Wong Kai Wah v Wong Kai Yuan and another<br />
+                [2014] SGHC 147
+                <br /><br />
+                Hamid Marine Services & Engrg Pte Ltd v Foo Siew Wei and others<br />
+                [2020] SGHC 190
+                <br /><br />
+                Choo Ah Sam v Kieu Ka Tong and another<br />
+                [2020] SGHC 62
+                <br /><br />
+                Containers Printers Pte Ltd v Christopher Tan and Another<br />
+                [1997] SGHC 273
+                <br /><br />
+                Panwah Steel Private Limited v DTG & Co Pte Ltd<br />
+                [2010] SGDC 150
+                <br /><br />
+                Exxonmobil Asia Pacific Pte Ltd v Bombay Dyeing & Manufacturing Co Ltd<br />
+                [2007] SGHC 137
+                <br /><br />
+                OCBC Wearnes & Walden Investments (Singapore) Limited and Others v Goh Shon Hai (Computer Measurement (S) Pte Ltd, Third Party)<br />
+                [1999] SGHC 164
+                <br /><br />
+                Chong Hor Yong trading as Jackie's Shoes Comapny v Chik Chun Wing trading as Tenlead Industrial & Commerce<br />
+                [1995] SGHC 26
+                <br /><br />
+                Jade Alliance Pte Ltd v Donald Mcarthy Pte Ltd<br />
+                [2004] SGDC 173
+
+</div>
             </div>
           </div>
         </div>
@@ -1093,7 +1353,7 @@ His current areas of focus include:
 
                   <div class="position">
                     Kunal Mirpuri<br />
-                  Partner<br />
+                  Associate<br />
                   </div>
 
                   <div class="btnmob">
@@ -1229,7 +1489,7 @@ His current areas of focus include:
           <div class="inner">
             <div class="position">
               Kunal Mirpuri<br />
-                  Partner<br />
+                  Associate<br />
             </div>
             <div class="wrapper">
               <div class="left">

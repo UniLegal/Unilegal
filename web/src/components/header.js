@@ -1,11 +1,32 @@
 import { Link } from 'gatsby'
-import React from 'react'
+import React, { useState } from 'react'
 import { cn } from '../lib/helpers'
 import styles from './header.module.css'
 import logo from '../images/logo-unilegal-llc.png'
 import logomob from '../images/logo-unilegal-llcmob.png'
 import mystyles from './header.scss'
+import { Dropdown, DropdownToggle, DropdownMenu } from 'reactstrap';
+import Accordion1 from "../components/headeraccordion/Accordion";
+import 'jquery/dist/jquery.min.js'
+import 'popper.js/dist/popper.min'
+import 'bootstrap/dist/js/bootstrap.min.js'
+import "bootstrap/dist/css/bootstrap.min.css";
+const Example = (props) => {
+  const [dropdownOpen, setDropdownOpen] = useState(false);
 
+  const toggle = () => setDropdownOpen(prevState => !prevState);
+
+  return (
+    <Dropdown id="headerdropdown" isOpen={dropdownOpen} toggle={toggle}>
+      <DropdownToggle id="headerdropdown" caret>
+        {props.title}
+      </DropdownToggle>
+      <DropdownMenu>
+        <Link to='/practice-areas/' header>Litigation</Link>
+      </DropdownMenu>
+    </Dropdown>
+  );
+}
 
 const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
   <div className={styles.root}>
@@ -20,6 +41,13 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
             </li>
             <li>
               <Link to='/about-us/'>About Us</Link>
+            </li>
+            <li>
+              <Example title="Practice Areas" />
+              <Accordion1
+                title="Practice Areas"
+                btn={<Link to='/glass-protect/' header>Glass Protect</Link>}
+              />
             </li>
             <li>
               <Link to='/profile-of-lawyers/'>Profile of Lawyers</Link>
@@ -61,6 +89,13 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
             </li>
             <li>
               <Link to='/about-us/'>About Us</Link>
+            </li>
+            <li>
+              <Example title="Practice Areas" />
+              <Accordion1
+                title="Practice Areas"
+                btn={<Link to='/glass-protect/' header>Glass Protect</Link>}
+              />
             </li>
             <li>
               <Link to='/profile-of-lawyers/'>Profile of Lawyers</Link>

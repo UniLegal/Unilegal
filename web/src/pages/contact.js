@@ -79,7 +79,7 @@ Eric Low<br/>
 Chia Cheok Sien<br/>
 Kunal Haresh Mirpuri<br/><br/>
 Fax: +65 6226 1993<br/>
-Parking: GB Building<br/>
+Parking: GB Building & SBF Center<br/>
 MRT: Raffles Place/Tanjong Pagar (Exit F)"
                 />
                 <Accordion
@@ -94,7 +94,7 @@ Fax: +65 6325 2853<br/>
 Email: ernest.bala@ernestbala.com.sg<br/><br/>
 
 Parking: Available at 6 Raffles Quay<br/>
-MRT: Raffles Place  "
+MRT: Raffles Place"
                 />
 
               </div>
