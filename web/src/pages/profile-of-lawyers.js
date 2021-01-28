@@ -595,30 +595,44 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                           Tel: <a href="tel:+6562362932">+65 6236 2932</a>
                 </div>
                 <div class="right">
-                  Nazim graduated from the University of London with an LL.B Hons in June 1989. He was admitted as a Barrister to the Bar in England & Wales in July 1990 and was admitted as an Advocate & Solicitor in Singapore in January 1992.
-                          <br /><br />
-                          Nazim specialises in high value Commercial Litigation and undertakes advisory and advocacy work in the Singapore Courts and in Domestic and International Arbitrations. As of 2018, he has 26 years of experience in very complex and intricate issues in the corporate/commercial arena. He brings his passion for the business world into perceiving and processing facts such as to create out of the box answers within the legal framework. Whilst he has wide experience in Court advocacy, Appellate advocacy and Arbitration, he considers cases as "problem solving" opportunities which need not necessarily lead to trial or arbitration. He also views settlements through Alternative Dispute Resolution or other alternatives to be a much needed and more viable approach in the 21st century. An efficient, systematic and opportunistic solving of problems is key. Every case has its waxes and wanes, ebbs and flows. The timing of a settlement is also critical.
-                          <br /><br />
-                          Nazim has experience in the following areas, namely:-
-                          <ul>
-                    <li >Matters relating to Companies & Corporations including derivative actions, minority oppression, breach of director's duties, financial assistance, breaches of various provisions under the Act, Insolvency, Judicial Management, Corporate Receivership and Restructuring</li>
-                    <li >Letters of Credit, Standby Letters of Credit, Guarantees and Performance Bonds</li>
-                    <li >Banking Litigation</li>
-                    <li >Tortious claims and Economic Torts</li>
-                    <li >Defamation</li>
-                    <li >Disputes on assets and matters arising from Probate and Letters of Administration including cross-jurisdictional disputes</li>
-                    <li >Professional Negligence</li >
-                    <li >Construction related disputes and those relating to infrastructure projects and Power Plant Projects(cross - jurisdictional) both in domestic and international arbitration</li >
-                    <li >Personal Debt Restructuring for owners in Corporate Insolvencies including Voluntary Arrangements</li >
+                  Nazim graduated from the University of London with an LLB Hons in June 1989. He was admitted as a Barrister to the Bar in England & Wales in July 1990 and was admitted as an Advocate & Solicitor in Singapore in January 1992.<br />
+                Nazim specialises in high value Commercial Litigation and undertakes advisory and advocacy work in the Singapore Courts and in Domestic and International Arbitrations. As of January 2021, he has 29 years of experience in complex corporate and commercial litigation. <br /><br />
+                Examples of cases he recently handled as lead counsel include:-<br />
+                  <ul>
+                    <li>acting for a former Goldman Director relating to the 1MDB saga in relation to CMSA charges in Malaysia and as they relate to Singapore;</li>
+                    <li>acting for a Counterparty in the Hin Leong/Ocean Tanker (in excess of US$50 million) matter relating to white collar issues;</li>
+                    <li>acting for private equity investor in relation to a negligence action against an offshore bank in an acquisition of an oil rig (value US$6 million);</li>
+                    <li>	acting in complex Misrepresentation actions;</li>
+                    <li>	acting for a GIP Fund in claims by its preference shareholders against the Fund and subsequently acting for the Directors in claims against them for breach of fiduciary duties (S$40 million);</li>
+                    <li>	acting for a substantial unitholder of a REIT in Singapore comprising 18 US hotels originally valued at US$1.2 billion and dealing with issues relating to an EOGM, the MAS and the Trustee;</li>
+                    <li>	acting for a Co-Administrator in removing another Administrator resulting in a Settlement of S$22 million;</li>
+                    <li>	acting for the Special Committee of a local listed company in relation to investigating allegation of overseas bribery;</li>
+                    <li>	claims in the High Court relating to shares in a listed company involving breach of moratorium;</li>
+                    <li>	acting for a large Philippines company against an offshore bank in relation to a wrongful call on a standby letter of credit; and</li>
+                    <li>	acting for Receiver & Managers and Judicial Managers in relation to Construction Companies.</li>
                   </ul>
-                          Several of the cases he has done has been reported. Nazim also has experience in corporate agreements including mergers and acquisitions, sale and purchase of shares in companies and businesses.
-                          <br /><br />
-Nazim is able to put together a team from members within UniLegal LLC and practitioners outside depending on the value and size of each case. Nazim is also able to work with lawyers and counsel from other jurisdictions in cross-jurisdictional matters and is able to tap on his network for this. Nazim is able to put together either a large team or a small team as the case may be.
-                          <br /><br />
-Over the years he has also advised High Net Worth individuals and Entrepreneurs on variety of issues and problems.
-                          <br /><br />
-A fuller curriculum vitae can be provided upon request
-                              </div></div>
+                  <br />
+                                      Nazim has experience in the following areas:-
+                                      <ul>
+                    <li>	Matters relating to Companies & Corporations including derivative actions, minority oppression, breach of director’s duties, financial assistance, breaches of various provisions under the Act, Insolvency, Judicial Management, Corporate Receivership and Restructuring;</li>
+                    <li>	Letters of Credit, Standby Letters of Credit, Guarantees and Performance Bonds;</li>
+                    <li>	Banking Litigation;</li>
+                    <li>	Tortious claims and Economic Torts;</li>
+                    <li>	Defamation;</li>
+                    <li>	Disputes on assets and matters arising from Probate and Letters of Administration including cross-jurisdictional disputes;</li>
+                    <li>	Professional Negligence;</li>
+                    <li>	Construction related disputes, infrastructure projects and Power Plants (cross-jurisdictional) - domestic and international arbitration;</li>
+                    <li>	Personal Debt Restructuring for owners in Corporate Insolvencies including Voluntary Arrangements.</li>
+                  </ul>
+                  Several of the cases he has done has been reported. Nazim also has experience in corporate agreements, mergers and acquisitions, sale and purchase of shares in companies and businesses and other varieties and permutations of agreements.<br />
+                Nazim works with his own team of 3 others. He is also able to put together a bigger team from members within UniLegal LLC comprising of different specialist backgrounds and practitioners outside depending on the value and size of each case and/or deal. Nazim very often works with lawyers and counsel from other jurisdictions in cross-jurisdictional matters and is able to tap on his network for this.<br />
+                Over the years he has also advised High Net Worth Individuals (“HNWIs”) and Entrepreneurs on their personal and business legal issues.<br /><br />
+                He may be contacted as follows:-<br />
+                Telephone:&nbsp;<a href="tel:+6562362939">+65 6236 2939</a><br />
+                Email:&nbsp;&nbsp;<a href="mailto:nazim.khan@unilegal.com.sg">nazim.khan@unilegal.com.sg</a> <br />
+                Secretary email:&nbsp;<a href="mailto:suhaimi@unilegal.com.sg">suhaimi@unilegal.com.sg</a><br />
+                A fuller curriculum vitae can be provided upon request.<br />
+                </div></div>
             </div>
           </div>
         </div>
@@ -890,30 +904,44 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                           Tel: <a href="tel:+6562362932">+65 6236 2932</a>
               </div>
               <div class="right">
-                Nazim graduated from the University of London with an LL.B Hons in June 1989. He was admitted as a Barrister to the Bar in England & Wales in July 1990 and was admitted as an Advocate & Solicitor in Singapore in January 1992.
-                          <br /><br />
-                          Nazim specialises in high value Commercial Litigation and undertakes advisory and advocacy work in the Singapore Courts and in Domestic and International Arbitrations. As of 2018, he has 26 years of experience in very complex and intricate issues in the corporate/commercial arena. He brings his passion for the business world into perceiving and processing facts such as to create out of the box answers within the legal framework. Whilst he has wide experience in Court advocacy, Appellate advocacy and Arbitration, he considers cases as "problem solving" opportunities which need not necessarily lead to trial or arbitration. He also views settlements through Alternative Dispute Resolution or other alternatives to be a much needed and more viable approach in the 21st century. An efficient, systematic and opportunistic solving of problems is key. Every case has its waxes and wanes, ebbs and flows. The timing of a settlement is also critical.
-                          <br /><br />
-                          Nazim has experience in the following areas, namely:-
-                          <ul>
-                  <li >Matters relating to Companies & Corporations including derivative actions, minority oppression, breach of director's duties, financial assistance, breaches of various provisions under the Act, Insolvency, Judicial Management, Corporate Receivership and Restructuring</li>
-                  <li >Letters of Credit, Standby Letters of Credit, Guarantees and Performance Bonds</li>
-                  <li >Banking Litigation</li>
-                  <li >Tortious claims and Economic Torts</li>
-                  <li >Defamation</li>
-                  <li >Disputes on assets and matters arising from Probate and Letters of Administration including cross-jurisdictional disputes</li>
-                  <li >Professional Negligence</li >
-                  <li >Construction related disputes and those relating to infrastructure projects and Power Plant Projects(cross - jurisdictional) both in domestic and international arbitration</li >
-                  <li >Personal Debt Restructuring for owners in Corporate Insolvencies including Voluntary Arrangements</li >
+                Nazim graduated from the University of London with an LLB Hons in June 1989. He was admitted as a Barrister to the Bar in England & Wales in July 1990 and was admitted as an Advocate & Solicitor in Singapore in January 1992.<br />
+                Nazim specialises in high value Commercial Litigation and undertakes advisory and advocacy work in the Singapore Courts and in Domestic and International Arbitrations. As of January 2021, he has 29 years of experience in complex corporate and commercial litigation. <br /><br />
+                Examples of cases he recently handled as lead counsel include:-<br />
+                <ul>
+                  <li>acting for a former Goldman Director relating to the 1MDB saga in relation to CMSA charges in Malaysia and as they relate to Singapore;</li>
+                  <li>acting for a Counterparty in the Hin Leong/Ocean Tanker (in excess of US$50 million) matter relating to white collar issues;</li>
+                  <li>acting for private equity investor in relation to a negligence action against an offshore bank in an acquisition of an oil rig (value US$6 million);</li>
+                  <li>	acting in complex Misrepresentation actions;</li>
+                  <li>	acting for a GIP Fund in claims by its preference shareholders against the Fund and subsequently acting for the Directors in claims against them for breach of fiduciary duties (S$40 million);</li>
+                  <li>	acting for a substantial unitholder of a REIT in Singapore comprising 18 US hotels originally valued at US$1.2 billion and dealing with issues relating to an EOGM, the MAS and the Trustee;</li>
+                  <li>	acting for a Co-Administrator in removing another Administrator resulting in a Settlement of S$22 million;</li>
+                  <li>	acting for the Special Committee of a local listed company in relation to investigating allegation of overseas bribery;</li>
+                  <li>	claims in the High Court relating to shares in a listed company involving breach of moratorium;</li>
+                  <li>	acting for a large Philippines company against an offshore bank in relation to a wrongful call on a standby letter of credit; and</li>
+                  <li>	acting for Receiver & Managers and Judicial Managers in relation to Construction Companies.</li>
                 </ul>
-                          Several of the cases he has done has been reported. Nazim also has experience in corporate agreements including mergers and acquisitions, sale and purchase of shares in companies and businesses.
-                          <br /><br />
-Nazim is able to put together a team from members within UniLegal LLC and practitioners outside depending on the value and size of each case. Nazim is also able to work with lawyers and counsel from other jurisdictions in cross-jurisdictional matters and is able to tap on his network for this. Nazim is able to put together either a large team or a small team as the case may be.
-                          <br /><br />
-Over the years he has also advised High Net Worth individuals and Entrepreneurs on variety of issues and problems.
-                          <br /><br />
-A fuller curriculum vitae can be provided upon request
-                          </div></div>
+                <br />
+                                      Nazim has experience in the following areas:-
+                                      <ul>
+                  <li>	Matters relating to Companies & Corporations including derivative actions, minority oppression, breach of director’s duties, financial assistance, breaches of various provisions under the Act, Insolvency, Judicial Management, Corporate Receivership and Restructuring;</li>
+                  <li>	Letters of Credit, Standby Letters of Credit, Guarantees and Performance Bonds;</li>
+                  <li>	Banking Litigation;</li>
+                  <li>	Tortious claims and Economic Torts;</li>
+                  <li>	Defamation;</li>
+                  <li>	Disputes on assets and matters arising from Probate and Letters of Administration including cross-jurisdictional disputes;</li>
+                  <li>	Professional Negligence;</li>
+                  <li>	Construction related disputes, infrastructure projects and Power Plants (cross-jurisdictional) - domestic and international arbitration;</li>
+                  <li>	Personal Debt Restructuring for owners in Corporate Insolvencies including Voluntary Arrangements.</li>
+                </ul>
+                  Several of the cases he has done has been reported. Nazim also has experience in corporate agreements, mergers and acquisitions, sale and purchase of shares in companies and businesses and other varieties and permutations of agreements.<br />
+                Nazim works with his own team of 3 others. He is also able to put together a bigger team from members within UniLegal LLC comprising of different specialist backgrounds and practitioners outside depending on the value and size of each case and/or deal. Nazim very often works with lawyers and counsel from other jurisdictions in cross-jurisdictional matters and is able to tap on his network for this.<br />
+                Over the years he has also advised High Net Worth Individuals (“HNWIs”) and Entrepreneurs on their personal and business legal issues.<br /><br />
+                He may be contacted as follows:-<br />
+                Telephone:&nbsp;<a href="tel:+6562362939">+65 6236 2939</a><br />
+                Email:&nbsp;&nbsp;<a href="mailto:nazim.khan@unilegal.com.sg">nazim.khan@unilegal.com.sg</a> <br />
+                Secretary email:&nbsp;<a href="mailto:suhaimi@unilegal.com.sg">suhaimi@unilegal.com.sg</a><br />
+                A fuller curriculum vitae can be provided upon request.<br />
+              </div></div>
           </div>
         </div>
       </div>
