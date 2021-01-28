@@ -4,8 +4,8 @@ import Container from '../components/container'
 import GraphQLErrorList from '../components/graphql-error-list'
 import SEO from '../components/seo'
 import Layout from '../containers/layout'
-import headerimg from '../images/portomono-glass-protect-screen-protector-tempered-glass-contactus-header.jpg'
-import mobileheaderimg from '../images/portomono-glass-protect-screen-protector-tempered-glass-contactus-header-mobile.jpg'
+import headerimg from '../images/unilegal_law_firm_singapore_contactus_header.jpg'
+import mobileheaderimg from '../images/unilegal_law_firm_singapore_contactus_header_mobile.jpg'
 import Accordion from "../components/accordion/Accordion";
 
 
@@ -101,6 +101,7 @@ MRT: Raffles Place"
 
             </div>
             <form id="contactform" class="contactusform" name="Contact Form" action="https://getsimpleform.com/messages?form_api_token=949627fee84868b3fd86c58dd01d1b15" method="post">
+              <input type='hidden' name='redirect_to' value='http://www.unilegal.com.sg/thank-you' />
 
               <input type="hidden" name="form-name" value="Contact Form" />
               <div class="flex">

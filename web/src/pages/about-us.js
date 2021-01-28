@@ -3,11 +3,11 @@ import Container from '../components/container'
 import SEO from '../components/seo'
 import Layout from '../containers/layout'
 import { Link } from 'gatsby'
-import slide3 from '../images/abt-us-header.jpg'
+import slide3 from '../images/unilegal_law_firm_singapore_contactus_header.jpg'
 import overview from '../images/aboutus/overview.png'
 import practice from '../images/aboutus/practice.png'
 import clients from '../images/aboutus/clients.png'
-import mobileheaderimg from '../images/unilegal-aboutus-mobile.png'
+import mobileheaderimg from '../images/unilegal_law_firm_singapore_contactus_header_mobile.jpg'
 import involvement from '../images/aboutus/involvement.png'
 
 const thankYouPage = props => {

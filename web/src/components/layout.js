@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './header'
 import { Link } from 'gatsby'
-import favicon from '../images/Portomono_logo_screen_protector.ico'
+import favicon from '../images/unilegal_law_firm_singapore.ico'
 import Helmet from 'react-helmet'
 import '../styles/layout.css'
 import styles from './layout.module.css'
@@ -25,13 +25,6 @@ const Layout = ({ children, companyInfo, onHideNav, onShowNav, showNav, siteTitl
               <li><Link to='/profile-of-lawyers/'>Profile of Lawyers</Link></li>
               <li><Link to='/news/'>News</Link></li>
               <li><Link to="/contact/">Contact Us</Link></li>
-
-            </ul>
-          </div>
-          <div class="col-xs-6 col-md-3">
-            <h6>Practice Areas</h6>
-            <ul class="footer-links">
-              <li><Link to='/practice-areas/'>Litigation</Link></li>
 
             </ul>
           </div>

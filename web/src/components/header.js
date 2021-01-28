@@ -41,13 +41,7 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
             <li>
               <Link to='/about-us/'>About Us</Link>
             </li>
-            <li>
-              <Example title="Practice Areas" />
-              <Accordion1
-                title="Practice Areas"
-                btn={<Link to='/glass-protect/' header>Glass Protect</Link>}
-              />
-            </li>
+
             <li>
               <Link to='/profile-of-lawyers/'>Profile of Lawyers</Link>
             </li>
@@ -88,13 +82,6 @@ const Header = ({ onHideNav, onShowNav, showNav, siteTitle, siteImage }) => (
             </li>
             <li>
               <Link to='/about-us/'>About Us</Link>
-            </li>
-            <li>
-              <Example title="Practice Areas" />
-              <Accordion1
-                title="Practice Areas"
-                btn={<Link to='/glass-protect/' header>Glass Protect</Link>}
-              />
             </li>
             <li>
               <Link to='/profile-of-lawyers/'>Profile of Lawyers</Link>

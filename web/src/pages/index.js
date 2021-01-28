@@ -2,13 +2,8 @@ import React, { useEffect } from 'react'
 import GraphQLErrorList from '../components/graphql-error-list'
 import SEO from '../components/seo'
 import Layout from '../containers/layout'
-import slide from '../images/portomono-glass-protect-screen-protector-tempered-glass-slide1.png'
-import slide2 from '../images/portomono-glass-protect-screen-protector-tempered-glass-slide2.png'
-import slide3 from '../images/portomono-glass-protect-screen-protector-tempered-glass-slide3.png'
-import mobslide2 from '../images/portomono-glass-protect-screen-protector-tempered-glass-mobslide1.png'
-import mobslide1 from '../images/portomono-glass-protect-screen-protector-tempered-glass-mobslide2.png'
-import mobslide3 from '../images/portomono-glass-protect-screen-protector-tempered-glass-mobslide3.png'
-import Carousel from 'nuka-carousel';
+import slide from '../images/unilegal_law_firm_singapore_contactus_slide.png'
+import mobslide2 from '../images/unilegal_law_firm_singapore_contactus_mobslide.png'
 import ProjectPreviewGrid from '../components/project-preview-grid'
 import {
   mapEdgesToNodes,
