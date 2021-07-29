@@ -265,11 +265,9 @@ const warrantyRequestPage = props => {
     if (mob == true) {
       console.log('#open' + num + 'mob');
       $('#open' + num + 'mob').slideUp("slow");
-      $('#tri11'+num +'mob').slideUp("slow");
     }
     else {
       $('#open' + num).slideUp("slow");
-      $('#tri'+num).slideUp("slow");
     }
   }
   return (
@@ -524,7 +522,7 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
             </div>
           </div>
           <div class="install">
-            <img class="installimg" id="l4" height="3024" width="3024" src={nazim} alt="portomono installation guide" />
+            <img class="installimg" id="l4" height="3024" width="3024" src={ng} alt="portomono installation guide" />
             <img src={tri} id="tri4" class="tri" alt="portomono installation guide" />
 
           </div>
@@ -532,11 +530,58 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
             <div class="inner">
               <div class="inner11">
                 <div class="position">
-                  Nazim Khan<br />
+                  Ng Puay Joo<br />
                   Director<br />
                 </div>
                 <div class="btnmob">
                   <button class="crossmob" onClick={showoverlay.bind(null, "4")} >
+                    &#215;
+                  </button>
+                </div>
+              </div>
+
+              <div class="wrapper">
+                <div class="left">
+                  Email: <a href="mailto:ngpuayjoo@unilegal.com.sg">ngpuayjoo@unilegal.com.sg</a><br />
+                          Tel: <a href="tel:+6562362931">+65 6236 2931</a>
+                  <br />
+                          Tel: <a href="tel:+6562362948">+65 6236 2948</a>
+                </div>
+                <div class="right">
+                  Puay Joo has accumulated over 30 years of experience in all aspects of real estate work, advising both corporate and individual clients on acquisitions and disposals of real estate, regulatory matters, housing developments and leasing matters.
+                  <br /><br />
+                  She has been a director with Unilegal LLC since 2006. Prior to that, she was a partner in one of the Big Four law firms in Singapore, as well as an in-house legal counsel of one of the major local banks.  Puay Joo is appointed by the Singapore Academy of Law as a Commissioner for Oaths and Notary Public. She has also taught the Practice Law Course managed by the Singapore Institute of Legal Education.<br /><br />
+                  Puay Joo’s  diverse experience in real estate and general solicitors’ work includes the following:
+                  <ul>
+                    <li>The sale and purchase of residential, commercial, industrial, JTC and HDB properties by both individuals and corporates, statutory boards, registered societies</li>
+                    <li>Representing developers in the sale of units in licensed and unlicensed housing development projects</li>
+                    <li>Advising and acting for financial institutions on a variety of banking and finance transactions, including development project financing, multi-currency loans, syndicated loans and in the mortgagee sale of residential, commercial, industrial, JTC and HDB properties</li>
+                    <li>Handling retail property transactions which involve acting for financial institutions and CPF Board</li>
+                    <li>Handling the collective sale of units in residential developments</li>
+                    <li>Advising and acting for management corporations in the lodgment and discharge of Charges</li>
+                    <li>Advising and preparing tenancies and leases for residential, commercial and industrial properties</li>
+                    <li>Drafting of Wills, Deed Polls, Lasting Power of Attorneys, Statutory Declarations, estate planning and trusts, probate and administrative matters</li>
+                  </ul>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="install">
+            <img class="installimg" id="l5" height="3024" width="3024" src={nazim} alt="portomono installation guide" />
+            <img src={tri} id="tri5" class="tri" alt="portomono installation guide" />
+
+          </div>
+          <div class="open" id="open5mob">
+            <div class="inner">
+              <div class="inner11">
+
+                <div class="position">
+                  Nazim Khan<br />
+                  Director<br />
+                </div>
+                <div class="btnmob">
+                  <button class="crossmob" onClick={showoverlay.bind(null, "5")} >
                     &#215;
                   </button>
                 </div>
@@ -588,42 +633,6 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                 Secretary email:&nbsp;<a href="mailto:suhaimi@unilegal.com.sg">suhaimi@unilegal.com.sg</a><br />
                 A fuller curriculum vitae can be provided upon request.<br />
                 </div></div>
-            </div>
-          </div>
-          <div class="install">
-            <img class="installimg" id="l5" height="3024" width="3024" src={clarence} alt="portomono installation guide" />
-            <img src={tri} id="tri5" class="tri" alt="portomono installation guide" />
-
-          </div>
-          <div class="open" id="open5mob">
-            <div class="inner">
-              <div class="inner11">
-
-                <div class="position">
-                  Clarence Tan<br />
-                  Director<br />
-                </div>
-                <div class="btnmob">
-                  <button class="crossmob" onClick={showoverlay.bind(null, "5")} >
-                    &#215;
-                  </button>
-                </div>
-              </div>
-
-              <div class="wrapper">
-                <div class="left">
-                  Email: <a href="mailto:ckltan@unilegal.com.sg">ckltan@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362950">+65 6236 2950</a>
-                </div>
-                <div class="right">
-                  Clarence Tan is Director at UniLegal LLC and specialises in family, civil and commercial litigation, landlord and tenant, insolvency and bankruptcy, Strata Titles Board and Court of Appeal work.
-                          <br /><br />
-                          Over the years, Clarence has developed a personal approach to practicing law, believing in journeying with his clients and working closely with them to ensure amicable and practical solutions to their cases. His belief in "litigating with humour" has helped him establish strong relationships within the legal fraternity and with his clients, many of whom he still calls friends today.
-                          <br /><br />
-                          Clarence graduated from the University of Leeds in 1992 and was admitted to Lincoln's Inn in 1995. He was called to the Singapore Bar in 1997 and remains in practice. He is a member of the Law Society of Singapore and Singapore Academy of Law.
-                          <br /><br />
-Clarence is also a self-professed handyman who loves to tinker with cars, watches, bicycles and anything else he can get his hands on, including his golfing equipment. He loves a game of golf and represents the Law Society in golf in its annual Bar and Bench Games. He currently maintains a single handicap in golf, which he attributes to luck. </div>
-</div>
             </div>
           </div>
         </div>
@@ -849,6 +858,41 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                   </button>
           <div class="inner">
             <div class="position">
+              Ng Puay Joo<br />
+                  Director<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:ngpuayjoo@unilegal.com.sg">ngpuayjoo@unilegal.com.sg</a><br />
+                          Tel: <a href="tel:+6562362931">+65 6236 2931</a>
+                <br />
+                          Tel: <a href="tel:+6562362948">+65 6236 2948</a>
+              </div>
+              <div class="right">
+                Puay Joo has accumulated over 30 years of experience in all aspects of real estate work, advising both corporate and individual clients on acquisitions and disposals of real estate, regulatory matters, housing developments and leasing matters.
+                  <br /><br />
+                  She has been a director with Unilegal LLC since 2006. Prior to that, she was a partner in one of the Big Four law firms in Singapore, as well as an in-house legal counsel of one of the major local banks.  Puay Joo is appointed by the Singapore Academy of Law as a Commissioner for Oaths and Notary Public. She has also taught the Practice Law Course managed by the Singapore Institute of Legal Education.<br /><br />
+                  Puay Joo’s  diverse experience in real estate and general solicitors’ work includes the following:
+                  <ul>
+                  <li>The sale and purchase of residential, commercial, industrial, JTC and HDB properties by both individuals and corporates, statutory boards, registered societies</li>
+                  <li>Representing developers in the sale of units in licensed and unlicensed housing development projects</li>
+                  <li>Advising and acting for financial institutions on a variety of banking and finance transactions, including development project financing, multi-currency loans, syndicated loans and in the mortgagee sale of residential, commercial, industrial, JTC and HDB properties</li>
+                  <li>Handling retail property transactions which involve acting for financial institutions and CPF Board</li>
+                  <li>Handling the collective sale of units in residential developments</li>
+                  <li>Advising and acting for management corporations in the lodgment and discharge of Charges</li>
+                  <li>Advising and preparing tenancies and leases for residential, commercial and industrial properties</li>
+                  <li>Drafting of Wills, Deed Polls, Lasting Power of Attorneys, Statutory Declarations, estate planning and trusts, probate and administrative matters</li>
+                </ul> </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="open" id="open5">
+          <button class="cross" onClick={showoverlay.bind(null, "5")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
               Nazim Khan<br />
                   Director<br />
             </div>
@@ -896,46 +940,56 @@ Nim Chor's vast experience includes having acted and advised on Initial Public O
                 Telephone:&nbsp;<a href="tel:+6562362939">+65 6236 2939</a><br />
                 Email:&nbsp;&nbsp;<a href="mailto:nazim.khan@unilegal.com.sg">nazim.khan@unilegal.com.sg</a> <br />
                 Secretary email:&nbsp;<a href="mailto:suhaimi@unilegal.com.sg">suhaimi@unilegal.com.sg</a><br />
-                A fuller curriculum vitae can be provided upon request.<br /> </div>
-
-            </div>
-          </div>
-        </div>
-        <div class="open" id="open5">
-          <button class="cross" onClick={showoverlay.bind(null, "5")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Clarence Tan<br />
-                  Director<br />
-            </div>
-
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:ckltan@unilegal.com.sg">ckltan@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362950">+65 6236 2950</a>
-              </div>
-              <div class="right">
-                Clarence Tan is Director at UniLegal LLC and specialises in family, civil and commercial litigation, landlord and tenant, insolvency and bankruptcy, Strata Titles Board and Court of Appeal work.
-                          <br /><br />
-                          Over the years, Clarence has developed a personal approach to practicing law, believing in journeying with his clients and working closely with them to ensure amicable and practical solutions to their cases. His belief in "litigating with humour" has helped him establish strong relationships within the legal fraternity and with his clients, many of whom he still calls friends today.
-                          <br /><br />
-                          Clarence graduated from the University of Leeds in 1992 and was admitted to Lincoln's Inn in 1995. He was called to the Singapore Bar in 1997 and remains in practice. He is a member of the Law Society of Singapore and Singapore Academy of Law.
-                          <br /><br />
-Clarence is also a self-professed handyman who loves to tinker with cars, watches, bicycles and anything else he can get his hands on, including his golfing equipment. He loves a game of golf and represents the Law Society in golf in its annual Bar and Bench Games. He currently maintains a single handicap in golf, which he attributes to luck. </div>
-</div>
+                A fuller curriculum vitae can be provided upon request.<br />
+              </div></div>
           </div>
         </div>
       </div>
       <div class="installclasswrap">
         <div class="installclass">
           <div class="install">
-            <img class="installimg" id="l6" height="3024" width="3024" src={leonard} alt="portomono installation guide" />
+            <img class="installimg" id="l6" height="3024" width="3024" src={clarence} alt="portomono installation guide" />
             <img src={tri} id="tri6" class="tri" alt="portomono installation guide" />
 
           </div>
           <div class="open" id="open6mob">
+            <div class="inner">
+              <div class="inner11">
+
+                <div class="position">
+                  Clarence Tan<br />
+                  Director<br />
+                </div>
+                <div class="btnmob">
+                  <button class="crossmob" onClick={showoverlay.bind(null, "6")} >
+                    &#215;
+                  </button>
+                </div>
+              </div>
+
+              <div class="wrapper">
+                <div class="left">
+                  Email: <a href="mailto:ckltan@unilegal.com.sg">ckltan@unilegal.com.sg</a><br />
+                          Tel: <a href="tel:+6562362950">+65 6236 2950</a>
+                </div>
+                <div class="right">
+                  Clarence Tan is Director at UniLegal LLC and specialises in family, civil and commercial litigation, landlord and tenant, insolvency and bankruptcy, Strata Titles Board and Court of Appeal work.
+                          <br /><br />
+                          Over the years, Clarence has developed a personal approach to practicing law, believing in journeying with his clients and working closely with them to ensure amicable and practical solutions to their cases. His belief in "litigating with humour" has helped him establish strong relationships within the legal fraternity and with his clients, many of whom he still calls friends today.
+                          <br /><br />
+                          Clarence graduated from the University of Leeds in 1992 and was admitted to Lincoln's Inn in 1995. He was called to the Singapore Bar in 1997 and remains in practice. He is a member of the Law Society of Singapore and Singapore Academy of Law.
+                          <br /><br />
+Clarence is also a self-professed handyman who loves to tinker with cars, watches, bicycles and anything else he can get his hands on, including his golfing equipment. He loves a game of golf and represents the Law Society in golf in its annual Bar and Bench Games. He currently maintains a single handicap in golf, which he attributes to luck. </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="install">
+            <img class="installimg" id="l7" height="3024" width="3024" src={leonard} alt="portomono installation guide" />
+            <img src={tri} id="tri7" class="tri" alt="portomono installation guide" />
+
+          </div>
+          <div class="open" id="open7mob">
             <div class="inner">
               <div class="inner11">
 
@@ -965,12 +1019,13 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
               </div>
             </div>
           </div>
+
           <div class="install">
-            <img class="installimg" id="l7" height="3024" width="3024" src={ernest} alt="portomono installation guide" />
-            <img src={tri} id="tri7" class="tri" alt="portomono installation guide" />
+            <img class="installimg" id="l8" height="3024" width="3024" src={ernest} alt="portomono installation guide" />
+            <img src={tri} id="tri8" class="tri" alt="portomono installation guide" />
 
           </div>
-          <div class="open" id="open7mob">
+          <div class="open" id="open8mob">
             <div class="inner">
               <div class="inner11">
 
@@ -1012,13 +1067,12 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
               </div>
             </div>
           </div>
-
           <div class="install">
-            <img class="installimg" id="l8" height="3024" width="3024" src={serena} alt="portomono installation guide" />
-            <img src={tri} id="tri8" class="tri" alt="portomono installation guide" />
+            <img class="installimg" id="l9" height="3024" width="3024" src={serena} alt="portomono installation guide" />
+            <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
 
           </div>
-          <div class="open" id="open8mob">
+          <div class="open" id="open9mob">
             <div class="inner">
               <div class="inner11">
 
@@ -1047,11 +1101,11 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
             </div>
           </div>
           <div class="install">
-            <img class="installimg" id="l9" height="3024" width="3024" src={kenneth} alt="portomono installation guide" />
-            <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
+            <img class="installimg" id="l10" height="3024" width="3024" src={kenneth} alt="portomono installation guide" />
+            <img src={tri} id="tri10" class="tri" alt="portomono installation guide" />
 
           </div>
-          <div class="open" id="open9mob">
+          <div class="open" id="open10mob">
             <div class="inner">
               <div class="inner11">
 
@@ -1087,12 +1141,152 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
 
             </div>
           </div>
-          <div class="install">
-            <img class="installimg" id="l10" height="3024" width="3024" src={eric} alt="portomono installation guide" />
-            <img src={tri} id="tri10" class="tri" alt="portomono installation guide" />
+        </div>
+        <div class="open" id="open6">
+          <button class="cross" onClick={showoverlay.bind(null, "6")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Clarence Tan<br />
+                  Director<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:ckltan@unilegal.com.sg">ckltan@unilegal.com.sg</a><br />
+                          Tel: <a href="tel:+6562362950">+65 6236 2950</a>
+              </div>
+              <div class="right">
+                Clarence Tan is Director at UniLegal LLC and specialises in family, civil and commercial litigation, landlord and tenant, insolvency and bankruptcy, Strata Titles Board and Court of Appeal work.
+                          <br /><br />
+                          Over the years, Clarence has developed a personal approach to practicing law, believing in journeying with his clients and working closely with them to ensure amicable and practical solutions to their cases. His belief in "litigating with humour" has helped him establish strong relationships within the legal fraternity and with his clients, many of whom he still calls friends today.
+                          <br /><br />
+                          Clarence graduated from the University of Leeds in 1992 and was admitted to Lincoln's Inn in 1995. He was called to the Singapore Bar in 1997 and remains in practice. He is a member of the Law Society of Singapore and Singapore Academy of Law.
+                          <br /><br />
+Clarence is also a self-professed handyman who loves to tinker with cars, watches, bicycles and anything else he can get his hands on, including his golfing equipment. He loves a game of golf and represents the Law Society in golf in its annual Bar and Bench Games. He currently maintains a single handicap in golf, which he attributes to luck.</div>
+            </div>
+          </div>
+        </div>
+        <div class="open" id="open7">
+          <button class="cross" onClick={showoverlay.bind(null, "7")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Leonard Hazra<br />
+                  Partner<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:leonard@unilegal.com.sg">leonard@unilegal.com.sg</a><br />
+                          Tel: <a href="tel:+6562362411">+65 6236 2411</a>
+              </div>
+              <div class="right">
+                Leonard is a litigation and dispute resolution lawyer with main areas of focus in corporate, commercial and civil litigation and arbitration. Leonard has litigated and advised on a wide spectrum of cases, both local and with cross-border elements involving shareholders' disputes, breach of directors' duties, corporate investment and business disputes, loans and securities transactions, individual and corporate insolvencies, local and international commercial transaction disputes, building and construction disputes, tortious claims and matrimonial and family disputes. Leonard has also litigated and represented clients in criminal and regulatory offences proceedings.
+                          <br /><br />
+                              Leonard has appeared as Lead and Co-Counsel in hearings and trials in all levels of Courts in Singapore and in international arbitrations as well as in appeals before the Court of Appeal.
+                          <br /><br />
+                          Leonard was called to the Singapore Bar in 1992.
+                          </div>
+            </div>
+          </div>
+        </div>
+        <div class="open" id="open8">
+          <button class="cross" onClick={showoverlay.bind(null, "8")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Ernest Balasubramaniam<br />
+                  Director<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:ernest.bala@ernestbala.com.sg">ernest.bala@ernestbala.com.sg</a><br />
+                          Tel: <a href="tel:+6563252855">+65 6325 2855</a>
+              </div>
+              <div class="right">
+                Ernest Balasubramaniam graduated from the National University of Singapore in 1987.  He was emplaced in the Singapore Legal Service in 1988.
+                                            <br /><br />
+
+                  Ernest was admitted as an Advocate & Solicitor of the Supreme Court of Singapore in 1990. He obtained his Masters in law degree from the National University of Singapore in 1992 where he read advanced Banking Law, International Business Transactions, Insurance and Tax.  He obtained his Graduate Certificate in International Arbitration (GCIA) in 2019.
+                                            <br /><br />
+
+                  Ernest commenced private practice in June 1993 as a partner with a Singapore firm involved in 3 main areas, conveyancing, civil litigation and corporate work. He joined Arfat Selvam Alliance in 1999 and was head of the Real Estate and Civil Law Practice prior to joining Unilegal LLC in April 2010.  Ernest enjoys a broad practice, which include conveyancing, general corporate, banking, project finance, tax and civil litigation and arbitration. He was counsel for a landmark decision on the law of issue estoppel and easements.
+                                            <br /><br />
+
+                  His practice areas include civil litigation involving bankruptcy, Probate, Tortious Claims, Oppression of the Minority and derivative actions as well as corporate matters both locally and internationally.  He is active in International Arbitration matters.
+                                            <br /><br />
+
+                  He frequently advises major institutional clients including the CPF Board, Banks, Real Estate Developers and both private and listed companies.
+                                            <br /><br />
+
+                  He is currently a non independent non-executive Chairman of Viborpower Corporation Limited and independent Director of Taiwan listed Press Automation Technology Limited.</div>
+            </div>
+          </div>
+        </div>
+        <div class="open" id="open9">
+          <button class="cross" onClick={showoverlay.bind(null, "9")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Serena Kent<br />
+                  Director<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:serena.kent@ernestbala.com.sg">serena.kent@ernestbala.com.sg</a><br />
+                          Tel: <a href="tel:+6563252854">+65 6325 2854</a>
+              </div>
+              <div class="right">
+                Serena graduated from the National University of Singapore with an LLB (Hons) and LL.M and was called to the Singapore Bar in 1988.  Prior to private practice, she was Vice President (Legal) at two local banks.
+                <br /><br />
+                Serena has extensive experience in all types of banking transactions including retail, commercial and private banking sectors.  Her areas of practice include commercial leasing, banking and mortgage finance, real estate finance, collective sales and securitization, direct and indirect property acquisitions.
+ </div></div>
+          </div>
+        </div>
+        <div class="open" id="open10">
+          <button class="cross" onClick={showoverlay.bind(null, "10")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Kenneth Koh<br />
+                  Consultant<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:kenkoh@unilegal.com.sg">kenkoh@unilegal.com.sg</a><br />
+              </div>
+              <div class="right">
+                Kenneth graduated from the National University of Singapore in 1983. He is an Advocate & Solicitor of the Supreme Court of Singapore.
+                          <br />
+                <br />
+
+                          He specialises in litigation, arbitration and mediation, with a particular focus on infrastructure, civil engineering and building construction disputes.
+                          <br />
+                <br />
+
+                          He also acts for clients in real estate and property financing matters. He was legal advisor to the Singapore Contractors Association and authored the Singapore chapters in 2 international publications:
+                          <ul>
+                  <li>
+                    Transnational Litigation - A Practitioner's Guide by Oceana Publications</li>
+                  <li>The Handbook on Cross-Border Contracting by AIJA</li></ul> </div>
+            </div>
 
           </div>
-          <div class="open" id="open10mob">
+        </div>
+      </div>
+      <div class="installclasswrap">
+        <div class="installclass">
+          <div class="installone">
+            <img class="installimg" id="l11" height="3024" width="3024" src={eric} alt="portomono installation guide" />
+            <img src={tri} id="tri11" class="tri" alt="portomono installation guide" />
+
+
+          </div>
+          <div class="open" id="open11mob">
             <div class="inner">
               <div class="inner11">
 
@@ -1129,158 +1323,13 @@ Eric's areas of practice include arbitration, building and construction law, civ
 
             </div>
           </div>
-        </div>
-        <div class="open" id="open6">
-          <button class="cross" onClick={showoverlay.bind(null, "6")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Leonard Hazra<br />
-                  Partner<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:leonard@unilegal.com.sg">leonard@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362411">+65 6236 2411</a>
-              </div>
-              <div class="right">
-                Leonard is a litigation and dispute resolution lawyer with main areas of focus in corporate, commercial and civil litigation and arbitration. Leonard has litigated and advised on a wide spectrum of cases, both local and with cross-border elements involving shareholders' disputes, breach of directors' duties, corporate investment and business disputes, loans and securities transactions, individual and corporate insolvencies, local and international commercial transaction disputes, building and construction disputes, tortious claims and matrimonial and family disputes. Leonard has also litigated and represented clients in criminal and regulatory offences proceedings.
-                          <br /><br />
-                              Leonard has appeared as Lead and Co-Counsel in hearings and trials in all levels of Courts in Singapore and in international arbitrations as well as in appeals before the Court of Appeal.
-                          <br /><br />
-                          Leonard was called to the Singapore Bar in 1992.
-                          </div>
-            </div>
-          </div>
-        </div>
-        <div class="open" id="open7">
-          <button class="cross" onClick={showoverlay.bind(null, "7")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Ernest Balasubramaniam<br />
-                  Director<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:ernest.bala@ernestbala.com.sg">ernest.bala@ernestbala.com.sg</a><br />
-                          Tel: <a href="tel:+6563252855">+65 6325 2855</a>
-              </div>
-              <div class="right">
-                Ernest Balasubramaniam graduated from the National University of Singapore in 1987.  He was emplaced in the Singapore Legal Service in 1988.
-                                            <br /><br />
-
-                  Ernest was admitted as an Advocate & Solicitor of the Supreme Court of Singapore in 1990. He obtained his Masters in law degree from the National University of Singapore in 1992 where he read advanced Banking Law, International Business Transactions, Insurance and Tax.  He obtained his Graduate Certificate in International Arbitration (GCIA) in 2019.
-                                            <br /><br />
-
-                  Ernest commenced private practice in June 1993 as a partner with a Singapore firm involved in 3 main areas, conveyancing, civil litigation and corporate work. He joined Arfat Selvam Alliance in 1999 and was head of the Real Estate and Civil Law Practice prior to joining Unilegal LLC in April 2010.  Ernest enjoys a broad practice, which include conveyancing, general corporate, banking, project finance, tax and civil litigation and arbitration. He was counsel for a landmark decision on the law of issue estoppel and easements.
-                                            <br /><br />
-
-                  His practice areas include civil litigation involving bankruptcy, Probate, Tortious Claims, Oppression of the Minority and derivative actions as well as corporate matters both locally and internationally.  He is active in International Arbitration matters.
-                                            <br /><br />
-
-                  He frequently advises major institutional clients including the CPF Board, Banks, Real Estate Developers and both private and listed companies.
-                                            <br /><br />
-
-                  He is currently a non independent non-executive Chairman of Viborpower Corporation Limited and independent Director of Taiwan listed Press Automation Technology Limited.</div>
-            </div>
-          </div>
-        </div>
-        <div class="open" id="open8">
-          <button class="cross" onClick={showoverlay.bind(null, "8")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Serena Kent<br />
-                  Director<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:serena.kent@ernestbala.com.sg">serena.kent@ernestbala.com.sg</a><br />
-                          Tel: <a href="tel:+6563252854">+65 6325 2854</a>
-              </div>
-              <div class="right">
-                Serena graduated from the National University of Singapore with an LLB (Hons) and LL.M and was called to the Singapore Bar in 1988.  Prior to private practice, she was Vice President (Legal) at two local banks.
-                <br /><br />
-                Serena has extensive experience in all types of banking transactions including retail, commercial and private banking sectors.  Her areas of practice include commercial leasing, banking and mortgage finance, real estate finance, collective sales and securitization, direct and indirect property acquisitions.
- </div></div>
-          </div>
-        </div>
-        <div class="open" id="open9">
-          <button class="cross" onClick={showoverlay.bind(null, "9")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Kenneth Koh<br />
-                  Consultant<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:kenkoh@unilegal.com.sg">kenkoh@unilegal.com.sg</a><br />
-              </div>
-              <div class="right">
-                Kenneth graduated from the National University of Singapore in 1983. He is an Advocate & Solicitor of the Supreme Court of Singapore.
-                          <br />
-                <br />
-
-                          He specialises in litigation, arbitration and mediation, with a particular focus on infrastructure, civil engineering and building construction disputes.
-                          <br />
-                <br />
-
-                          He also acts for clients in real estate and property financing matters. He was legal advisor to the Singapore Contractors Association and authored the Singapore chapters in 2 international publications:
-                          <ul>
-                  <li>
-                    Transnational Litigation - A Practitioner's Guide by Oceana Publications</li>
-                  <li>The Handbook on Cross-Border Contracting by AIJA</li></ul> </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="open" id="open10">
-          <button class="cross" onClick={showoverlay.bind(null, "10")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Eric Low Eng Wan<br />
-                  Director<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:eric@unilegal.com.sg">eric@unilegal.com.sg</a>
-              </div>
-              <div class="right">
-                Eric graduated with the degree of LL.B (Hons) from the University of London in 1981. He was awarded the degree of Barrister-at-Law (Gray's Inn) in 1983 and was called to the English Bar that year.
-                  <br /><br />
-He was called to the Singapore Bar in 1984 and commenced private practice in Wee Swee Teow & Co.
-                  <br /><br />
-From 1986 to 1991, he served in the Singapore Legal Service and held the concurrent appointments of Magistrate, Deputy Registrar of the then Subordinate Courts (now the State Courts), Coroner, Referee of the Small Claims Tribunal and Assistant Registrar of the Supreme Court.
-                  <br /><br />
-He left the Singapore Legal Service in 1991 to join Khattar Wong & Partners and was a litigation partner when he left in September 2000 for other law firms before joining UniLegal LLC as a Director from March 2003 until April 2010 when he became a Consultant and has remained so since then.
-                  <br /><br />
-Over the years, Eric has represented various parties in a number of significant cases such as the High Court decision that determined the age of majority in Singapore; the Court of Appeal decision that involved the liability of carriers of goods and banks for conversion by releasing goods without a bill of lading but covered by a banker's guarantee; the case concerning the division of matrimonial assets following divorce where the Court of Appeal held that an ex-spouse may have an interest in the monies in a member's CPF account that may be protected by a Court Order; and the Committee of Inquiry hearing into the collapse of Nicoll Highway in 2004 in which he acted for the sub-contractor who carried out the project's geotechnical and instrumentation works.
-                  <br /><br />
-Eric's areas of practice include arbitration, building and construction law, civil and commercial litigation, mediation, disputes involving employment law, hire purchase and leasing, banking, landlord and tenant, insolvency, companies and partnerships.
-
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-      <div class="installclasswrap">
-        <div class="installclass">
           <div class="installone">
-            <img class="installimg" id="l11" height="3024" width="3024" src={chia} alt="portomono installation guide" />
-            <img src={tri} id="tri11" class="tri" alt="portomono installation guide" />
+            <img class="installimg" id="l12" height="3024" width="3024" src={chia} alt="portomono installation guide" />
+            <img src={tri} id="tri12" class="tri" alt="portomono installation guide" />
 
 
           </div>
-          <div class="open" id="open11mob">
+          <div class="open" id="open12mob">
             <div class="inner">
               <div class="inner11">
 
@@ -1319,14 +1368,13 @@ His current areas of focus include:
               </div>
 
             </div>
-          </div>
-          <div class="installone">
-            <img class="installimg" id="l12" height="3024" width="3024" src={kunal} alt="portomono installation guide" />
-            <img src={tri} id="tri12" class="tri" alt="portomono installation guide" />
+          </div>       <div class="installone">
+            <img class="installimg" id="l13" height="3024" width="3024" src={kunal} alt="portomono installation guide" />
+            <img src={tri} id="tri13" class="tri" alt="portomono installation guide" />
 
 
           </div>
-          <div class="open" id="open12mob">
+          <div class="open" id="open13mob">
             <div class="inner">
               <div class="inner13">
                 <div class="positiondiv">
@@ -1396,10 +1444,40 @@ Member, Singapore Academy of Law (2020-present)
               </div>
 
             </div>
-          </div>      
-</div>
+          </div></div>
         <div class="open" id="open11">
           <button class="cross" onClick={showoverlay.bind(null, "11")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+              Eric Low Eng Wan<br />
+                  Director<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:eric@unilegal.com.sg">eric@unilegal.com.sg</a>
+              </div>
+              <div class="right">
+                Eric graduated with the degree of LL.B (Hons) from the University of London in 1981. He was awarded the degree of Barrister-at-Law (Gray's Inn) in 1983 and was called to the English Bar that year.
+                  <br /><br />
+He was called to the Singapore Bar in 1984 and commenced private practice in Wee Swee Teow & Co.
+                  <br /><br />
+From 1986 to 1991, he served in the Singapore Legal Service and held the concurrent appointments of Magistrate, Deputy Registrar of the then Subordinate Courts (now the State Courts), Coroner, Referee of the Small Claims Tribunal and Assistant Registrar of the Supreme Court.
+                  <br /><br />
+He left the Singapore Legal Service in 1991 to join Khattar Wong & Partners and was a litigation partner when he left in September 2000 for other law firms before joining UniLegal LLC as a Director from March 2003 until April 2010 when he became a Consultant and has remained so since then.
+                  <br /><br />
+Over the years, Eric has represented various parties in a number of significant cases such as the High Court decision that determined the age of majority in Singapore; the Court of Appeal decision that involved the liability of carriers of goods and banks for conversion by releasing goods without a bill of lading but covered by a banker's guarantee; the case concerning the division of matrimonial assets following divorce where the Court of Appeal held that an ex-spouse may have an interest in the monies in a member's CPF account that may be protected by a Court Order; and the Committee of Inquiry hearing into the collapse of Nicoll Highway in 2004 in which he acted for the sub-contractor who carried out the project's geotechnical and instrumentation works.
+                  <br /><br />
+Eric's areas of practice include arbitration, building and construction law, civil and commercial litigation, mediation, disputes involving employment law, hire purchase and leasing, banking, landlord and tenant, insolvency, companies and partnerships.
+
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <div class="open" id="open12">
+          <button class="cross" onClick={showoverlay.bind(null, "12")} >
             &#215;
                   </button>
           <div class="inner">
@@ -1432,8 +1510,8 @@ His current areas of focus include:
 
           </div>
         </div>
-        <div class="open" id="open12">
-          <button class="cross" onClick={showoverlay.bind(null, "12")} >
+        <div class="open" id="open13">
+          <button class="cross" onClick={showoverlay.bind(null, "13")} >
             &#215;
                   </button>
           <div class="inner">
@@ -1496,7 +1574,6 @@ Member, Singapore Academy of Law (2020-present)
 
           </div>
         </div>
-        
       </div>
     </Layout>
   )
