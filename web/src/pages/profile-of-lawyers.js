@@ -14,7 +14,6 @@ import leonard from '../images/lawyers/leonard.jpg'
 import chia from '../images/lawyers/chia.jpg'
 import tri from '../images/lawyers/tri.png'
 import kunal from '../images/lawyers/kunal.jpg'
-import connie from '../images/lawyers/connie.jpg'
 
 import $ from 'jquery';
 
@@ -1396,45 +1395,7 @@ Member, Singapore Academy of Law (2020-present)
               </div>
 
             </div>
-          </div>
-          <div class="installone">
-            <img class="installimg" id="l13" height="3024" width="3024" src={connie} alt="portomono installation guide" />
-            <img src={tri} id="tri13" class="tri" alt="portomono installation guide" />
-
-
-          </div>
-          <div class="open" id="open13mob">
-            <div class="inner">
-              <div class="inner13">
-                <div class="positiondiv">
-
-                  <div class="position">
-                    Connie Kuan<br />
-                  Senior Associate<br />
-                  </div>
-
-                  <div class="btnmob">
-                    <button class="crossmob" onClick={showoverlay.bind(null, "13")} >
-                      &#215;
-                  </button>
-                  </div>
-                </div>
-              </div>
-
-              <div class="wrapper">
-                <div class="left">
-                  Email: <a href="mailto:connie@unilegal.com.sg">connie@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362932">+65 6236 2932</a>                </div>
-                <div class="right">
-Connie advises and represents clients in a range of commercial litigation and dispute resolution matters, and has conducted hearings across various levels of Court in Singapore. She has experience handling insolvency and corporate restructuring matters as well as construction and engineering disputes. Prior to joining UniLegal LLC, Connie practiced at one of the big four law firms in Singapore. 
-                  <br/><br/>
-Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
-
-                          </div>
-              </div>
-
-            </div>
-          </div>
+          </div>      
 </div>
         <div class="open" id="open11">
           <button class="cross" onClick={showoverlay.bind(null, "11")} >
@@ -1534,31 +1495,7 @@ Member, Singapore Academy of Law (2020-present)
 
           </div>
         </div>
-        <div class="open" id="open13">
-          <button class="cross" onClick={showoverlay.bind(null, "13")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Connie Kuan<br />
-                  Senior Associate<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:connie@unilegal.com.sg">connie@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362932">+65 6236 2932</a>             
-
-              </div>
-              <div class="right">
-                Connie advises and represents clients in a range of commercial litigation and dispute resolution matters, and has conducted hearings across various levels of Court in Singapore. She has experience handling insolvency and corporate restructuring matters as well as construction and engineering disputes. Prior to joining UniLegal LLC, Connie practiced at one of the big four law firms in Singapore.
-                  <br /><br />
-Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
-
-                          </div>
-            </div>
-
-          </div>
-        </div>
+        
       </div>
     </Layout>
   )
