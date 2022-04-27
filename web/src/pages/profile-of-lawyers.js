@@ -11,9 +11,7 @@ import clarence from '../images/lawyers/clarence.jpg'
 import yoongnc from '../images/lawyers/yoongnc.jpg'
 import eric from '../images/lawyers/eric.jpg'
 import leonard from '../images/lawyers/leonard.jpg'
-import chia from '../images/lawyers/chia.jpg'
 import tri from '../images/lawyers/tri.png'
-import kunal from '../images/lawyers/kunal.jpg'
 import connie from '../images/lawyers/connie.jpg'
 
 import $ from 'jquery';
@@ -1275,7 +1273,7 @@ Eric's areas of practice include arbitration, building and construction law, civ
       <div class="installclasswrap">
         <div class="installclass">
           <div class="installone">
-            <img class="installimg" id="l11" height="3024" width="3024" src={chia} alt="portomono installation guide" />
+            <img class="installimg" id="l11" height="3024" width="3024" src={connie} alt="portomono installation guide" />
             <img src={tri} id="tri11" class="tri" alt="portomono installation guide" />
 
 
@@ -1285,8 +1283,8 @@ Eric's areas of practice include arbitration, building and construction law, civ
               <div class="inner11">
 
                 <div class="position">
-                  Chia Cheok Sien<br />
-                  Partner<br />
+                  Connie Kuan<br />
+                  Senior Associate<br />
                 </div>
                 <div class="btnmob">
                   <button class="crossmob" onClick={showoverlay.bind(null, "12")} >
@@ -1297,140 +1295,15 @@ Eric's areas of practice include arbitration, building and construction law, civ
 
               <div class="wrapper">
                 <div class="left">
-                  Email: <a href="mailto:chia@unilegal.com.sg">chia@unilegal.com.sg</a><br />
-                </div>
-                <div class="right">
-                  Cheok Sien obtained his degree in Bachelor of Laws (Honours) from the National University of Singapore. He was admitted as an Advocate & Solicitor of the Supreme Court of Singapore in 1984.
-                              <br /><br />
-With extensive experience in litigation and dispute resolution, in addition to being legal counsel in transactional and corporate work, he is well placed to help you in legal matters.
-                              <br /><br />
-Besides being in private practice, he headed the legal department of SMIT SINGAPORE, an internationally renowned maritime services company as well as the Singapore Institute of Technology, one of the autonomous universities in Singapore.
-                              <br /><br />
-His current areas of focus include:
-                              <ul><li>Dispute resolution (including civil & commercial litigation)</li>
-                    <li>	Estate & trusts (including wills, probate, succession & wealth planning) matters</li>
-                    <li>	Company & business law</li>
-                    <li>	Insolvency work</li>
-                    <li>	Personal injury & property damage </li>
-                    <li>Real estate transactions & financing</li>
-                    <li>Family & matrimonial matters</li>
-                  </ul>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <div class="installone">
-            <img class="installimg" id="l12" height="3024" width="3024" src={kunal} alt="portomono installation guide" />
-            <img src={tri} id="tri12" class="tri" alt="portomono installation guide" />
-
-
-          </div>
-          <div class="open" id="open12mob">
-            <div class="inner">
-              <div class="inner13">
-                <div class="positiondiv">
-
-                  <div class="position">
-                    Kunal Mirpuri<br />
-                  Associate<br />
-                  </div>
-
-                  <div class="btnmob">
-                    <button class="crossmob" onClick={showoverlay.bind(null, "13")} >
-                      &#215;
-                  </button>
-                  </div>
-                </div>
-              </div>
-
-              <div class="wrapper">
-                <div class="left">
-                  Email: <a href="mailto:kmirpuri@unilegal.com.sg">kmirpuri@unilegal.com.sg</a><br />
-                                          Tel: <a href="tel:+6562362436">+65 6236 2436</a><br />
-                          Fax: <a href="tel:+6562261993">+65 6226 1993</a>                </div>
-                <div class="right">
-                  Kunal graduated from the University of Exeter in the United Kingdom with a Bachelor of Laws (Second Class Honours in the Upper Division) in 2017 and was admitted to the Singapore Bar as an Advocate and Solicitor of the Supreme Court in 2020. Prior to joining Unilegal LLC, Kunal trained at a boutique commercial litigation set, which was recently recognised by Asialaw Profiles 2021 as a Notable Firm for Dispute Resolution and recognised by the Straits Times Singapore as one of the Best Law Firms for 2021.
-                <br /><br />
-                Kunal’s main areas of practice include fraud and asset recovery, complex civil and commercial disputes (including but not limited to fraud, breach of director duties, negligence, economic torts, ship arrests, ship financing disputes, trade finance, construction disputes and banking litigation) and Restructuring/Insolvency (including debt restructuring, winding up, judicial management and schemes of arrangement), general corporate practice and financial services law and regulation.
-                <br /><br />
-                Kunal has experience in drafting legal documents such as Statement of Claims, Defences and affidavits for Interlocutory Applications. He is also experienced in offering commercially sound legal advice to clients, discussing tactical strategies and practical steps to be taken by them. He is well-versed in civil and criminal procedure, having had various experiences in these areas of law. A confident person, he is able to hold his own in client meetings and in the courtroom. He is also proficient in case file management and time management.
-                <br /><br />
-                Kunal is also fluent in both English and Hindi (both written and spoken).
-                <br /><br />
-                Some notable cases that Kunal has assisted in during his tenure as a trainee and associate include:
-                <ul>
-                    <li>	Advising a substantial shareholder of the manager of a listed REIT on the SGX (REIT valued at approximately US$1.27 billion as at listing date) </li>
-
-                    <li>Assisting in a cross-border shareholder dispute amounting to over £700,000 involving a European hotel management company which manages brands such as Hyatt and the Marriot. As the client had parallel claims in the UK and Singapore, this also involved negotiation with English solicitors.</li>
-
-                    <li>	Assisting in a claim against a multi-national insurance company involving damaged cargo worth AUD 750,000.00 where the said cargo was different from the invoice and packing list provided to Surveyors. </li>
-
-                    <li>	Advising client on the merits of commencing proceedings against a shipbroker hired by a well-known bank who advertised the sale of a ship causing loss USD 4 million and damages of $367,000 to client.</li>
-
-                    <li>	Assisting counsel in drafting a Section 211B applications to the High Court and assisted counsel to prepare for winding up hearing in relation to a S$4 million credit facility granted by a bank. This included liaising with vendors regarding 211B (3) advertising requirements and gathering creditors support in accordance with IM Skaugen (2019) requirements. Also assisted client to draft relevant board resolutions for the company in this regard.</li>
-
-                    <li>	Assisting counsel in defending multi-million dollar claims by multiple institutional lenders against a palm-oil trading company involving fraud perpetuated by external parties using, inter alia, duplicate bills of lading to execute fraudulent trades.</li>
-
-                    <li>	Assisting counsel on a matter where the firm represented a fund manager and the directors of a private equity fund in relation to breach of directors’ duties and unlawful means conspiracy. The claims in question were in the region of S$6 million with unliquidated claims at S$40 million.</li>
-
-                    <li>	Assisting counsel in reviewing contracts for a local corporate client involved in commercial acquisition by a German entity amounting to €3.3 million.</li>
-
-                    <li>	Assisting counsel in conducting legal research on the law on love gifts and resulting trusts in relation to a claim valued at over S$3 million dollars. Also assisted counsel in interviewing client for an interrogatories application by the defendant and perused</li>
-                                  documents for discovery in relation to the matter.
-
-                <li>	Assisting on cross-border dispute by a financial education firm (part of a group listed on the Australian Securities Exchange) on the issue of breach of director duties and inducement of breach of contract.</li>
-
-                    <li>	Advising and assisting on a claim by a private equity firm against one of the largest financial group in the European region with combined assets of S$2.3 trillion</li>
-
-                    <li>	Defending a client (who used to be a director of a company once valued at US$300 million) against claims of misrepresentation valued at S$5 million brought by the owner of a company with a substantial stake in a listed company on the Hong Kong Stock Exchange</li>
-                  </ul>
-
-
-
-Past/Present Memberships and/or Directorships
-Member, Law Society of Singapore (2020-present)
-Member, Singapore Academy of Law (2020-present)
-
-                          </div>
-              </div>
-
-            </div>
-          </div>
-          <div class="installone">
-            <img class="installimg" id="l13" height="3024" width="3024" src={connie} alt="portomono installation guide" />
-            <img src={tri} id="tri13" class="tri" alt="portomono installation guide" />
-
-
-          </div>
-          <div class="open" id="open13mob">
-            <div class="inner">
-              <div class="inner13">
-                <div class="positiondiv">
-
-                  <div class="position">
-                    Connie Kuan<br />
-                  Senior Associate<br />
-                  </div>
-
-                  <div class="btnmob">
-                    <button class="crossmob" onClick={showoverlay.bind(null, "13")} >
-                      &#215;
-                  </button>
-                  </div>
-                </div>
-              </div>
-
-              <div class="wrapper">
-                <div class="left">
                   Email: <a href="mailto:connie@unilegal.com.sg">connie@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362932">+65 6236 2932</a>                </div>
+                  Tel: <a href="tel:+6562362932">+65 6236 2932</a>
+                </div>
                 <div class="right">
-Connie advises and represents clients in a range of commercial litigation and dispute resolution matters, and has conducted hearings across various levels of Court in Singapore. She has experience handling insolvency and corporate restructuring matters as well as construction and engineering disputes. Prior to joining UniLegal LLC, Connie practiced at one of the big four law firms in Singapore. 
-                  <br/><br/>
-Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
+                  Connie advises and represents clients in a range of commercial litigation and dispute resolution matters, and has conducted hearings across various levels of Court in Singapore. She has experience handling insolvency and corporate restructuring matters as well as construction and engineering disputes. Prior to joining UniLegal LLC, Connie practiced at one of the big four law firms in Singapore.
+                  <br /><br />
+                  Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
 
-                          </div>
+                </div>
               </div>
 
             </div>
@@ -1442,119 +1315,20 @@ Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapo
                   </button>
           <div class="inner">
             <div class="position">
-              Chia Cheok Sien<br />
-                  Partner<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:chia@unilegal.com.sg">chia@unilegal.com.sg</a><br />
-              </div>
-              <div class="right">
-                Cheok Sien obtained his degree in Bachelor of Laws (Honours) from the National University of Singapore. He was admitted as an Advocate & Solicitor of the Supreme Court of Singapore in 1984.
-                              <br /><br />
-With extensive experience in litigation and dispute resolution, in addition to being legal counsel in transactional and corporate work, he is well placed to help you in legal matters.
-                              <br /><br />
-Besides being in private practice, he headed the legal department of SMIT SINGAPORE, an internationally renowned maritime services company as well as the Singapore Institute of Technology, one of the autonomous universities in Singapore.
-                              <br /><br />
-His current areas of focus include:
-                              <ul><li>Dispute resolution (including civil & commercial litigation)</li>
-                  <li>	Estate & trusts (including wills, probate, succession & wealth planning) matters</li>
-                  <li>	Company & business law</li>
-                  <li>	Insolvency work</li>
-                  <li>	Personal injury & property damage </li>
-                  <li>Real estate transactions & financing</li>
-                  <li>Family & matrimonial matters</li>
-                </ul>
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="open" id="open12">
-          <button class="cross" onClick={showoverlay.bind(null, "12")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
-              Kunal Mirpuri<br />
-                  Associate<br />
-            </div>
-            <div class="wrapper">
-              <div class="left">
-                Email: <a href="mailto:kmirpuri@unilegal.com.sg">kmirpuri@unilegal.com.sg</a><br />
-                                          Tel: <a href="tel:+6562362436">+65 6236 2436</a><br />
-                          Fax: <a href="tel:+6562261993">+65 6226 1993</a>
-
-              </div>
-              <div class="right">
-                Kunal graduated from the University of Exeter in the United Kingdom with a Bachelor of Laws (Second Class Honours in the Upper Division) in 2017 and was admitted to the Singapore Bar as an Advocate and Solicitor of the Supreme Court in 2020. Prior to joining Unilegal LLC, Kunal trained at a boutique commercial litigation set, which was recently recognised by Asialaw Profiles 2021 as a Notable Firm for Dispute Resolution and recognised by the Straits Times Singapore as one of the Best Law Firms for 2021.
-                <br /><br />
-                Kunal’s main areas of practice include fraud and asset recovery, complex civil and commercial disputes (including but not limited to fraud, breach of director duties, negligence, economic torts, ship arrests, ship financing disputes, trade finance, construction disputes and banking litigation) and Restructuring/Insolvency (including debt restructuring, winding up, judicial management and schemes of arrangement), general corporate practice and financial services law and regulation.
-                <br /><br />
-                Kunal has experience in drafting legal documents such as Statement of Claims, Defences and affidavits for Interlocutory Applications. He is also experienced in offering commercially sound legal advice to clients, discussing tactical strategies and practical steps to be taken by them. He is well-versed in civil and criminal procedure, having had various experiences in these areas of law. A confident person, he is able to hold his own in client meetings and in the courtroom. He is also proficient in case file management and time management.
-                <br /><br />
-                Kunal is also fluent in both English and Hindi (both written and spoken).
-                <br /><br />
-                Some notable cases that Kunal has assisted in during his tenure as a trainee and associate include:
-                <ul>
-                  <li>	Advising a substantial shareholder of the manager of a listed REIT on the SGX (REIT valued at approximately US$1.27 billion as at listing date) </li>
-
-                  <li>Assisting in a cross-border shareholder dispute amounting to over £700,000 involving a European hotel management company which manages brands such as Hyatt and the Marriot. As the client had parallel claims in the UK and Singapore, this also involved negotiation with English solicitors.</li>
-
-                  <li>	Assisting in a claim against a multi-national insurance company involving damaged cargo worth AUD 750,000.00 where the said cargo was different from the invoice and packing list provided to Surveyors. </li>
-
-                  <li>	Advising client on the merits of commencing proceedings against a shipbroker hired by a well-known bank who advertised the sale of a ship causing loss USD 4 million and damages of $367,000 to client.</li>
-
-                  <li>	Assisting counsel in drafting a Section 211B applications to the High Court and assisted counsel to prepare for winding up hearing in relation to a S$4 million credit facility granted by a bank. This included liaising with vendors regarding 211B (3) advertising requirements and gathering creditors support in accordance with IM Skaugen (2019) requirements. Also assisted client to draft relevant board resolutions for the company in this regard.</li>
-
-                  <li>	Assisting counsel in defending multi-million dollar claims by multiple institutional lenders against a palm-oil trading company involving fraud perpetuated by external parties using, inter alia, duplicate bills of lading to execute fraudulent trades.</li>
-
-                  <li>	Assisting counsel on a matter where the firm represented a fund manager and the directors of a private equity fund in relation to breach of directors’ duties and unlawful means conspiracy. The claims in question were in the region of S$6 million with unliquidated claims at S$40 million.</li>
-
-                  <li>	Assisting counsel in reviewing contracts for a local corporate client involved in commercial acquisition by a German entity amounting to €3.3 million.</li>
-
-                  <li>	Assisting counsel in conducting legal research on the law on love gifts and resulting trusts in relation to a claim valued at over S$3 million dollars. Also assisted counsel in interviewing client for an interrogatories application by the defendant and perused</li>
-                                  documents for discovery in relation to the matter.
-
-                <li>	Assisting on cross-border dispute by a financial education firm (part of a group listed on the Australian Securities Exchange) on the issue of breach of director duties and inducement of breach of contract.</li>
-
-                  <li>	Advising and assisting on a claim by a private equity firm against one of the largest financial group in the European region with combined assets of S$2.3 trillion</li>
-
-                  <li>	Defending a client (who used to be a director of a company once valued at US$300 million) against claims of misrepresentation valued at S$5 million brought by the owner of a company with a substantial stake in a listed company on the Hong Kong Stock Exchange</li>
-                </ul>
-
-
-
-                <div>Past/Present Memberships and/or Directorships</div><br />
-Member, Law Society of Singapore (2020-present)<br />
-Member, Singapore Academy of Law (2020-present)
-
-              </div>
-            </div>
-
-          </div>
-        </div>
-        <div class="open" id="open13">
-          <button class="cross" onClick={showoverlay.bind(null, "13")} >
-            &#215;
-                  </button>
-          <div class="inner">
-            <div class="position">
               Connie Kuan<br />
-                  Senior Associate<br />
+              Senior Associate<br />
             </div>
             <div class="wrapper">
               <div class="left">
                 Email: <a href="mailto:connie@unilegal.com.sg">connie@unilegal.com.sg</a><br />
-                          Tel: <a href="tel:+6562362932">+65 6236 2932</a>             
-
+                Tel: <a href="tel:+6562362932">+65 6236 2932</a>
               </div>
               <div class="right">
                 Connie advises and represents clients in a range of commercial litigation and dispute resolution matters, and has conducted hearings across various levels of Court in Singapore. She has experience handling insolvency and corporate restructuring matters as well as construction and engineering disputes. Prior to joining UniLegal LLC, Connie practiced at one of the big four law firms in Singapore.
-                  <br /><br />
-Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
+                <br /><br />
+                Connie was admitted as an Advocate and Solicitor of the Supreme Court of Singapore in 2016 and is fluent in English and Mandarin.
 
-                          </div>
+              </div>
             </div>
 
           </div>
