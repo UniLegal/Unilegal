@@ -861,7 +861,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
       </div>
       <div class="installclasswrap">
         <div class="installclass">
-          <div class="install">
+          <div class="installone">
             <img class="installimg" id="l6" height="3024" width="3024" src={ernest} alt="portomono installation guide" />
             <img src={tri} id="tri6" class="tri" alt="portomono installation guide" />
 
@@ -907,7 +907,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
               </div>
             </div>
           </div>
-          <div class="install">
+          <div class="installone">
             <img class="installimg" id="l7" height="3024" width="3024" src={serena} alt="portomono installation guide" />
             <img src={tri} id="tri7" class="tri" alt="portomono installation guide" />
 
@@ -942,7 +942,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
             </div>
           </div>
 
-          <div class="install">
+          <div class="installone">
             <img class="installimg" id="l8" height="3024" width="3024" src={kenneth} alt="portomono installation guide" />
             <img src={tri} id="tri8" class="tri" alt="portomono installation guide" />
 
@@ -983,7 +983,7 @@ Clarence is also a self-professed handyman who loves to tinker with cars, watche
               </div>
             </div>
           </div>
-          <div class="install">
+          <div class="installone">
             <img class="installimg" id="l9" height="3024" width="3024" src={eric} alt="portomono installation guide" />
             <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
 
