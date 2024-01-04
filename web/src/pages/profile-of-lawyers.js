@@ -1026,7 +1026,7 @@ Eric's areas of practice include arbitration, building and construction law, civ
           </div>
           <div class="installone">
             <img class="installimg" id="l10" height="3024" width="3024" src={shiv} alt="portomono installation guide" />
-            <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
+            <img src={tri} id="tri10" class="tri" alt="portomono installation guide" />
 
           </div>
           <div class="open" id="open10mob">
