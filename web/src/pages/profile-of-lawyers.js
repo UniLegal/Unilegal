@@ -12,7 +12,7 @@ import yoongnc from '../images/lawyers/yoongnc.jpg'
 import eric from '../images/lawyers/eric.jpg'
 import leonard from '../images/lawyers/leonard.jpg'
 import tri from '../images/lawyers/tri.png'
-import connie from '../images/lawyers/connie.jpg'
+import shiv from '../images/lawyers/shiv.jpg'
 
 import $ from 'jquery';
 
@@ -1024,6 +1024,45 @@ Eric's areas of practice include arbitration, building and construction law, civ
 
             </div>
           </div>
+          <div class="installone">
+            <img class="installimg" id="l10" height="3024" width="3024" src={shiv} alt="portomono installation guide" />
+            <img src={tri} id="tri9" class="tri" alt="portomono installation guide" />
+
+          </div>
+          <div class="open" id="open10mob">
+            <div class="inner">
+              <div class="inner11">
+
+                <div class="position">
+                Shiv Kumar Singh<br />
+                  Associate<br />
+                </div>
+                <div class="btnmob">
+                  <button class="crossmob" onClick={showoverlay.bind(null, "12")} >
+                    &#215;
+                  </button>
+                </div>
+              </div>
+
+              <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:shiv.kumar@unilegal.com.sg">shiv.kumar@unilegal.com.sg</a><br/>
+                Tel: <a href="tel:+6562362948">+65 6236 2948</a>
+              </div>
+              <div class="right">
+                
+Shiv is developing a comprehensive commercial practice that encompasses areas spanning corporate transactions, shareholder disputes, restructuring and insolvency, insurance, reinsurance, general commercial disputes, professional negligence and civil fraud. In addition, he has been involved in contentious matters dealing with probate and administration, with a focus on contested wills, testamentary dispositions and issues involving the Mental Capacity Act 2008. 
+<br /><br />
+Shiv has also acted in an advisory capacity for a range of issues, including but not limited to marine reinsurance and technology, media and telecommunications. He accepts instructions in all of UniLegal LLC's practice areas.
+<br /><br />
+Shiv read law at Singapore Management University where he graduated with an LL.B. (Hons), and was called to the Singapore Bar in 2022.
+<br /><br />
+As an enthusiast of martial arts, Shiv enjoys boxing in his leisure time.
+</div>
+              </div>
+
+            </div>
+          </div>
         </div>
         <div class="open" id="open6">
           <button class="cross" onClick={showoverlay.bind(null, "6")} >
@@ -1136,6 +1175,34 @@ He left the Singapore Legal Service in 1991 to join Khattar Wong & Partners and 
 Over the years, Eric has represented various parties in a number of significant cases such as the High Court decision that determined the age of majority in Singapore; the Court of Appeal decision that involved the liability of carriers of goods and banks for conversion by releasing goods without a bill of lading but covered by a banker's guarantee; the case concerning the division of matrimonial assets following divorce where the Court of Appeal held that an ex-spouse may have an interest in the monies in a member's CPF account that may be protected by a Court Order; and the Committee of Inquiry hearing into the collapse of Nicoll Highway in 2004 in which he acted for the sub-contractor who carried out the project's geotechnical and instrumentation works.
                   <br /><br />
 Eric's areas of practice include arbitration, building and construction law, civil and commercial litigation, mediation, disputes involving employment law, hire purchase and leasing, banking, landlord and tenant, insolvency, companies and partnerships.
+</div>
+            </div>
+
+          </div>
+        </div>
+        <div class="open" id="open10">
+          <button class="cross" onClick={showoverlay.bind(null, "10")} >
+            &#215;
+                  </button>
+          <div class="inner">
+            <div class="position">
+            Shiv Kumar Singh<br />
+                  Associate<br />
+            </div>
+            <div class="wrapper">
+              <div class="left">
+                Email: <a href="mailto:shiv.kumar@unilegal.com.sg">shiv.kumar@unilegal.com.sg</a><br/>
+                Tel: <a href="tel:+6562362948">+65 6236 2948</a>
+              </div>
+              <div class="right">
+                
+Shiv is developing a comprehensive commercial practice that encompasses areas spanning corporate transactions, shareholder disputes, restructuring and insolvency, insurance, reinsurance, general commercial disputes, professional negligence and civil fraud. In addition, he has been involved in contentious matters dealing with probate and administration, with a focus on contested wills, testamentary dispositions and issues involving the Mental Capacity Act 2008. 
+<br /><br />
+Shiv has also acted in an advisory capacity for a range of issues, including but not limited to marine reinsurance and technology, media and telecommunications. He accepts instructions in all of UniLegal LLC's practice areas.
+<br /><br />
+Shiv read law at Singapore Management University where he graduated with an LL.B. (Hons), and was called to the Singapore Bar in 2022.
+<br /><br />
+As an enthusiast of martial arts, Shiv enjoys boxing in his leisure time.
 </div>
             </div>
 
